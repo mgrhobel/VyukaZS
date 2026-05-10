@@ -1,0 +1,8 @@
+---
+title: "kvd.png"
+source: "/mnt/f/git/mgr/FPE_navazujici/3. Semestr/DV2ST/hotove projekty/DV2ST(vild,kleisner,vohradsky)/DV2ST/data/images/kvd.png"
+date: 2009-11-19
+type: Image (OCR)
+---
+
+i KVD

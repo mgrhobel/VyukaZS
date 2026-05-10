@@ -1,0 +1,39 @@
+---
+title: "empty.htm"
+source: "/mnt/f/git/mgr/FPE_navazujici/1. Semestr/RPEPS/Samostatná práce/Analýza trestù a odmìn/odmìna a trest na Z_soubory/empty.htm"
+date: 2008-12-02
+type: HTML
+---
+
++-----------------------------------------------------------------------+
+| # The page cannot be found                                            |
+|                                                                       |
+| The page you are looking for might have been removed, had its name    |
+| changed, or is temporarily unavailable.                               |
+|                                                                       |
+| -------------------------------------------------------------------   |
+|                                                                       |
+| Please try the following:                                             |
+|                                                                       |
+| -   Make sure that the Web site address displayed in the address bar  |
+|     of your browser is spelled and formatted correctly.               |
+| -   If you reached this page by clicking a link, contact the Web site |
+|     administrator to alert them that the link is incorrectly          |
+|     formatted.                                                        |
+| -   Click the [Back](javascript:history.back(1)) button to try        |
+|     another link.                                                     |
+|                                                                       |
+| ## HTTP Error 4                                                       |
+| 04 - File or directory not found. Internet Information Services (IIS) |
+|                                                                       |
+| -------------------------------------------------------------------   |
+|                                                                       |
+| Technical Information (for support personnel)                         |
+|                                                                       |
+| -   Go to [Microsoft Product Support                                  |
+|     Services](http://go.microsoft.com/fwlink/?linkid=8180) and        |
+|     perform a title search for the words **HTTP** and **404**.        |
+| -   Open **IIS Help**, which is accessible in IIS Manager (inetmgr),  |
+|     and search for topics titled **Web Site Setup**, **Common         |
+|     Administrative Tasks**, and **About Custom Error Messages**.      |
++-----------------------------------------------------------------------+

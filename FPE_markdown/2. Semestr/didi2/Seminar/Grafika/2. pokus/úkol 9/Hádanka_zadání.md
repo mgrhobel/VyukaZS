@@ -1,0 +1,9 @@
+---
+title: "HÃ¡danka_zadÃ¡nÃ­.txt"
+source: "/mnt/f/git/mgr/FPE_navazujici/2. Semestr/didi2/Seminar/Grafika/2. pokus/Ãºkol 9/HÃ¡danka_zadÃ¡nÃ­.txt"
+date: 2009-06-11
+type: TXT
+---
+
+Máte dány 4 ètverce (první ètverec je tøeba vytvoøít ostatní tøikrát zkopírovat).
+Vaším úkolem bude vytvoøit takovı útvar, kterı se zkládá z pìti stejnıch ètvercù.

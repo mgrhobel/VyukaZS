@@ -1,0 +1,1058 @@
+---
+title: "OdbornÃ© termÃ­ny uÂÃ­vanÃ© ve speciÃ¡lnÃ­ pedagogice.txt"
+source: "/mnt/f/git/mgr/FPE_navazujici/2. Semestr/SPEU/PomÃ¹cky z minulÃ½ch let/OdbornÃ© termÃ­ny uÂÃ­vanÃ© ve speciÃ¡lnÃ­ pedagogice.txt"
+date: 2008-09-29
+type: TXT
+---
+
+Odborné termíny uívané ve speciální pedagogice
+
+ 
+
+Aberace – odchylka, úchylka
+
+Abnormita – nepravidelnost, odchylka od obvyklého jevu
+
+Abortus – potrat
+
+Abrachius – jsoucí bez pae, nemající horní konèetinu
+
+Absence – nepøítomnost, vzdálenost, v lékaøství ztráta vìdomí, pamìti, krátkodobı stav nehlubokého bezvìdomí
+
+Absorpce – pohlcování, pohlcení (jedné látky povrchem druhé), vstøebání
+
+Abstinence – zdrenlivost, zdrování se poitkù
+
+Abstrakce – myšlenkovı proces zjišující obecné, podstatné a skuteèné po vylouèení odlišností a zvláštností, vytváøení obecnıch poznatkù
+
+Absurdní – sluchu nepøíjemnı, nevhodnı, pošetilı, nesmyslnı, nelogickı
+
+Acidita – kyselost
+
+Adaptace – pøizpùsobení, pøizpùsobivost
+
+Adenoidní – láze podobnı, lázovitı
+
+Adolescence – dospívání, dorùstání, dozrávání
+
+Adopce – pøijetí za vlastní, osvojení
+
+Afázie – nemluvení, èásteèná nebo úplná ztráta ji nabité schopnosti øeèi
+
+Afekt – hnutí mysli, vzrušení, rozèilení
+
+Aferentace – pøinášení, donášení zpráv (aferentní dráhy – nervové dráhy pøinášející podnìt)
+
+Afonie – ztráta hlasu, ztráta schopnosti tvoøit hlas jako projev choroby
+
+Afrázie – neschopnost tvoøit správné vìty, nemluvnost
+
+Aftongie – porucha øeèi nervového pùvodu
+
+Agens – jednající, dìlající èinitel, pùvodce
+
+Agnózie – ztráta schopnosti vnímat, chápat, rozeznávat pøedmìty, osoby
+
+Agónie – údobí pøed smrtí, smrtelnı zápas
+
+Agrafie – chorobná neschopnost psát, písemnì se vyjadøovat
+
+Agramatismus – neschopnost tvoøit mluvnicky správné tvary
+
+Agrese – pøikroèit, napadat, napadení, útok
+
+Achromatopsie – barvoslepost, neschopnost vidìt barvu
+
+Achromazie – vada zpùsobující èásteènou nebo úplnou barvoslepost
+
+Akalkulie – neschopnost poèítat
+
+Akcelerace – zrychlení, zrychlování, urychlení
+
+Akinézie – neschopnost pohybu, nehybnost
+
+Akomodace – pøizpùsobení, pøipodobnìní
+
+Aktivita – èinnost, horlivost
+
+Akupedie – vıchova jedincù s poruchami sluchu
+
+Akupunktura – léèebné vpichování jehel do urèitıch èástí tìla, pouívané hlavnì k odstranìní bolesti
+
+Alálie – vıvojová vada øeèi rùzného stupnì
+
+Albinismus – èásteènı nebo úplnı nedostatek koního barviva v tìle
+
+Alela – dìdiènı základ znaku, také alelomorfa
+
+Alergie – pøecitlivìlost, porušenı stav imunitní reaktivity
+
+Alexie – chorobná neschopnost èíst, nerozvinutí nebo ztráta schopnosti èíst
+
+Alternace – støídání, nahrazování, støídání práce zdravé a postiené horní konèetiny
+
+Altruismus – nezištnost, nesobeckost, jednání ve prospìch druhıch lidí
+
+Amauróza – slepota, èernı zákal
+
+Ambivalence – obojetnost, dvojakost, souèasnì se vyskytující láska a nenávist k tée osobì nebo pøedmìtu
+
+Amblyopie – tupozrakost
+
+Ambulantní – chodící, pohybující se
+
+Amelie – vrozené úplné nevyvinutí konèetin
+
+Ametropie – chybné vidìní, porucha lomivosti oka, kdy se rovnobìnì paprsky nespojují na sítnici, ale pøed ní nebo za ní
+
+Amnézie – oslabení, ztráta pamìti pøi duševních poruchách
+
+Amorální – nemorální, nemravní
+
+Amuzie – nehudebnost, neschopnost rozpoznat melodii a porozumìt hudbì
+
+Anakúze, anakúzie – neslyšení, hluchota, neschopnost slyšet
+
+Analeptika – léky zvyšující èinnost ivotnì dùleitıch orgánù
+
+Analgetika – léky zmíròující, utišující bolest
+
+Analıza – rozklad, rozebrání sloitìjšího na jednodušší
+
+Anamnéza – rozpomenutí, èást zdravotního záznamu, kde se zaznamenává døívìjší stav pacienta, zvláštì choroby
+
+Anartrie – porucha èlánkování v øeèi, porucha vıslovnosti
+
+Anatomie – èlenìní, rozdìlování, nauka o normální stavbì tìla
+
+Anestézie – znecitlivìní (ne umrtvení)
+
+Anomálie – nepravidelnost, odchylka od normy
+
+Anopie, anopsie – neschopnost vidìt pøi zdravé sítnici
+
+Anorexie – ztráta chuti k jídlu, nechutenství, odmítání jídla
+
+Antagonickı, antagonistickı – protichùdnı, opaènì pùsobící
+
+Anticipace – pøedjímání, pøedvídání, pøedèasnı vıskyt nìjakého jevu
+
+Antiepileptika – léky proti epilepsii, padoucnici
+
+Antipatie – odpor, nechu, nelibost, nenávist, nelibost
+
+Antropofobie – strach pøed stykem s lidmi
+
+Antorpologie – nauka o vzniku a vıvoji èlovìka a jeho tìlesnıch vlastnostech
+
+Antropometrie – mìøení lidského tìla
+
+Anurie – zástava tvorby a vyluèování moèi
+
+Apatie – lhostejnost, nezájem, neteènost
+
+Aplazie – vrozené nevyvinutí nìkterého orgánu, nìkteré èásti tìla
+
+Apoplexie – mrtvice, náhlé selhání funkce nìkterého ivotnì dùleitého orgánu
+
+Apraxie – porucha CNS, neschopnost konat obvyklé úkony jako projev choroby
+
+Aprosexie – neschopnost soustøedit myšlenky, sníená nebo nedostateèná pozornost vnímání
+
+Aritmastenie – sníená schopnost a neschopnost práce s èísly
+
+Arterioskleróza – kornatìní, tvrdnutí tepen
+
+Arteterapie – léèba umìním jako speciální druh psychoterapie
+
+Artikulace – èlánkování hlásek mluvidly pøi vyslovování
+
+Artritida – zánìt kloubu
+
+Artróza – onemocnìní kloubu
+
+Arytmie – nepravidelná srdeèní èinnost
+
+Asanace – ozdravìní, zlepšování, úprava objektu
+
+Asociace – sdruování pøedstav, shlukování
+
+Asomnie – nespavost, nedostateènı spánek, také insomnie
+
+Astenie – celková slabost, vyèerpanost, ztráta sil
+
+Astenopie – chabozrakost, slabozrakost, nezøetelné vidìní
+
+Astigmatismus – porucha vidìní zpùsobená nesprávnım zakøivením rohovky
+
+Ataxie – porucha koordinace pohybù pøi nervovıch onemocnìních
+
+Atonie – ztráta napìtí svalù, svalová ochablost
+
+Atrofie – nedostateèná vıiva, chøadnutí, zakrnìní
+
+Atypie – zvláštnost, odchylka od normy
+
+Audimutita – hluchonìmost
+
+Audiogram – grafickı záznam vısledku audiometrického mìøení stavu sluchu
+
+Audiometr – elektroakustickı pøístroj k mìøení stavu sluchu
+
+Auditivní – sluchovı
+
+Aura – vánek, vanutí, pøedzvìst záchvatu, bezprostøední známky blíícího se záchvatu
+
+Autismus – stav osamocenosti, chorobné obracení k vlastní osobì, zamlklost, uzavøenost
+
+Autoregulace – „øízení sebe sama“, sebeovládání, schopnost jedince øídit cílenì volní jednání
+
+Azyl – útoèištì, ve speciální pedagogice døíve jako azyl oznaèována zaøízení, kde bylo peèováno o tìce defektní osoby
+
+Bacil – tyèinka, tyèinkovı mikrob
+
+Balneologie – nauka o léèivıch vodách, lázních a jejich úèinkù na lidskı organismus
+
+Balneoterapie – lázeòská léèba
+
+Bazální – základní, k základnì patøící, spodinovı
+
+Benigní – dobrotivı, neškodnı, nezhoubnı
+
+Bilabiální – obouretnı, tvoøenı dvìma rty
+
+Bilaterální – dvoustrannı
+
+Bilingvismus – dvojjazyènost, uívání dvou jazykù
+
+Binaurální – tıkající se obou uší, urèenı pro obì uši
+
+Binokulární – tıkající se obou oèí, urèenı pro obì oèi
+
+Biopsie – vyšetøování ivıch tkání mikroskopem pro stanovení diagnózy
+
+Bipolární – dvojpólovı, mající dva póly
+
+Bradyartrie – zpomalené vyslovování, protahovanı zpùsob øeèi
+
+Bradypsychismus – zpomalení duševní èinnosti
+
+Centrální – støední, ústøední, hlavní
+
+Cerebrální – mozkovı, k mozku patøící
+
+Cirkulace – obìh, kolobìh
+
+Cyanóza – modrofialové zbarvení sítnice a kùe okrajovıch èástí tìla
+
+Daktylologie – posuòková øeè pro dorozumívání hluchonìmıch
+
+Daltonismus – barvoslepost
+
+Debilita – zaostalost, slabost, lehká forma slabomyslnosti (zastarale)
+
+Defekt – poškození, porucha, vada
+
+Defektologie – nauka o tìlesnıch, smyslovıch, duševních a sociálních vadách èlovìka
+
+Deformace – zmìna tvaru, porušení tvaru, znetvoøení
+
+Degenerace – odchılení od pravidla, úbytek sil, úpadek, vıvojovı ústup
+
+Dekompenzace – porušení kompenzace, selhání
+
+Delikt – pøeèin, trestnı èin
+
+Demence – tupost, pošetilost, zblbìlost
+
+Dentice – proøezávání zubù, tvoøení zubù a jejich rùst
+
+Deprese – sklíèenost, skleslost, stísnìnost
+
+Deprivace – ztráta, odstranìní nìèeho, strádání z nedostatku duševních nebo citovıch potøeb
+
+Dermatitida, dermitida – zánìt kùe
+
+Destrukce – znièení, rozboøení, zkáza
+
+Determinace – urèení, vymezení pojmu
+
+Deviace – odchylka, úchylka, odklon od normy
+
+Diagnóza – rozpoznání, urèení choroby
+
+Didaktika – teorie vyuèování
+
+Dieta – ivotospráva, lékaøem stanovenı zpùsob vıivy
+
+Diference – rozdíl, rùznost
+
+Dificilní – nesnadno ovladatelnı, neukáznìnı, nesnášenlivı, tìko vychovatelnı
+
+Difúzní – rozptılenı, ohranièenı
+
+Dichromatopsie, dichromazie – forma barvosleposti, schopnost rozlišovat jen dvì základní barvy
+
+Dioptrie – jednotka pro optickou mohutnost èoèky
+
+Disimulace – zastírání, zatajování, zamlèování bolesti, choroby nebo jejich pøíznakù
+
+Diskriminace – rozlišování, vyøazování (ze spoleènosti), pronásledování
+
+Dislokace – rozmístìní, rozloení, zmìna polohy
+
+Dispenzarizace – poskytnutí všestranné léèebné péèe, vydìlení nemocnıch a pak péèe o nì v pøíslušném zdravotnickém zaøízení
+
+Dispozice – náchylnost organismu k urèité chorobì, sklon k urèitému jednání
+
+Distancovat se – odstupovat od, odtahovat se, vzdalovat se
+
+Divergentní – rozbíhavı, rozbíhající se, neshodnı
+
+Dominance – pøevládání
+
+Dysartrie – porucha èlánkovací sloky mluvy
+
+Dysfázie – porucha schopnosti mluvit, stíené mluvení, lehèí forma afázie
+
+Dysfonie – hlasová porucha, nesprávná hlasová funkce, nenormální tvoøení hlasu
+
+Dysfrázie – chorobná porucha øeèi, nesouvislá øeè, porucha schopnosti správnì vyjádøit nìèí myšlenku
+
+Dysfrenie – duševní psychotické onemocnìní
+
+Dysfunkce – porucha èinnosti, poškozená èinnost
+
+Dysgnózie – porucha poznávací schopnosti, porucha identifikace a poznání pøedmìtù na základì poruchy vyšší korové analızy a syntézy urèitého druhu podnìtù
+
+Dysgrafie – specifická porucha psaní, písemného vyjadøování
+
+Dysgramatismus – porucha schopnosti tvoøit mluvnicky správné tvary
+
+Dyskalkulie – specifická porucha matematickıch schopností, nerozvinutá schopnost uívat poèetních symbolù
+
+Dyskinéza – porušená schopnost pohybu
+
+Dyslálie – porucha øeèi zvaná patlavost
+
+Dyslexie – specifická porucha ètení, špatné pochopení smyslu psaného slova
+
+Dysortografie – specifická porucha pravopisu, neschopnost správnì gramaticky psát
+
+Dysplazie – nesprávnı vıvoj orgánu nebo tkánì
+
+Dyspraxie – lehèí forma apraxie, porušená schopnost konat obvyklé úkony
+
+Dysrytmie – porušená schopnost rytmizace pohybù nebo mluvního projevu
+
+Dystonie – porucha normálního svalového napìtí
+
+Dystrofie – porucha vıivy
+
+Edém – otok, nahromadìní tekutiny, moku ve tkáních
+
+Efekt – vısledek, úèinek pùsobení
+
+Egocentrismus – postoj, pøi kterém se jedinec pokládá za støed všeho dìní kolem, sobeckost, zamìøení na sebe sama
+
+Echo – stav, kdy nemocnı pouze bezdìènì opakuje, napodobuje to, co je vyjádøeno následující èástí sloeného slova
+
+Echofrázie – nemocnı opakuje koncové slabiky slova nebo i mluvní celky, také echolalie
+
+Echografie – chorobné napodobování vidìného písma nebo pohybù píšící osoby nemocnım
+
+Echokinéza – napodobování pozorovanıch pohybù, hlavnì gestikulace a mimiky
+
+Elektivní – vıbìrovı, vybírající, na vıbìr danı
+
+Elektrokardiografie – metoda vyšetøování srdce, pøi ní se zaznamenávají pomocí elektrokardiografu bioelektrické potenciály srdeèního svalu
+
+Elektroterapie – elektroléèba, vyuívání elektrické energie k léèebnım úèelùm
+
+Element – základní sloka, souèást
+
+Embryo – rostlinnı nebo ivoèišnı zárodek
+
+Emetropie – správnı pomìr mezi lomivostí optickıch prostøedí a optickou osou
+
+Emoce – silné hnutí mysli, cit, citovı vzruch, dojetí
+
+Empatie – vcítìní, schopnost proívat city, myšlenky a jednání druhého jedince v sobì samém
+
+Encefalitita – zánìt mozku
+
+Encefalografie – rentgenové vyšetøení mozkovıch prostorù
+
+Encefalomyelitida – souèasnı zánìt mozku a míchy
+
+Encefalopatie – souhrnné oznaèení pro veškerá onemocnìní mozku
+
+Endogenní – vnitøního pùvodu, z vnitøních pøíèin
+
+Endokrinní – tıkající se láz s vnitøní sekrecí
+
+Enuréza – bezdìèné chorobné pomoèování
+
+Epidemie – hromadnı vıskyt nakalivé choroby
+
+Epilepsie – padoucnice
+
+Eretickı – podrádìnı, vzrušenı, neklidnı
+
+Ergoterapie – léèba prací
+
+Etiologie – nauka o pùvodu, o pøíèinách
+
+Etopedie – úsek speciální pedagogiky zabıvající se rozvojem, vıchovou a vzdìláním dìtí s poruchami chování
+
+Euforie – pøíjemnı stav tìlesné a duševní pohody
+
+Exaktní – vìdecky pøesnı, zaloenı na matematickıch vıpoètech nebo metodách
+
+Exogenní – zevnìjšího pùvodu, z vnìjších pøíèin
+
+Extenze – nataení, natahování
+
+Extrapyramidovı – jsoucí mimo pyramidové (jehlancovité)
+
+Farmakologie – nauka o úèinku lékù na ivı organismus
+
+Fétus – plod od 3. mìsíce po poèetí do porodu
+
+Fisura – rıha, trhlina, štìrbina, rozštìp
+
+Fixace – upevnìní, zachycení, ulpìní
+
+Flegmatik – èlovìk klidné, chladnokrevnì a lhostejné, neteèné povahy
+
+Fobie – strach, hrùza
+
+Fonace – tvoøení a vydávání hlasu
+
+Fonetika – nauka zabıvající se zvukovou stránkou øeèi
+
+Foniatrie – lékaøskı obor zabıvající se vadami øeèi, hlasu a jejich léèením
+
+Fototerapie – léèení svìtlem, svìtelnımi paprsky
+
+Funkce – èinnost
+
+Fylogeneze – historickı vıvoj ivıch organismù od nejjednodušších ke sloitìjším
+
+Fyziognomie – podoba, vıraz oblièeje, tváønost, povaha
+
+Fyziologie – nauka o ivotních funkcích zdravého organismu
+
+Fyzioterapie – léèení chorob fyzikálními prostøedky
+
+Ganglie – nervová uzlina
+
+Geneze – vznik, pùvod, zrod
+
+Genotyp – soubor všech dìdiènıch informací organismu, genetická konstituce organismu
+
+Geriatrie – vìda zabıvající se komplexní péèí o stárnoucí generaci a léèením nemocí stáøí
+
+Gerontofilie – pohlavní sklon k osobám vìkem mnohem starším
+
+Gnozeologie – teorie poznání
+
+Gymnastika – tìlesná cvièení
+
+Gynekologie – enské lékaøství
+
+Habituální – návykovı, obvyklı, èastı, èasto se opakující
+
+Helioterapie – léèení sluneèním záøením
+
+Hemeralopie – šeroslepost, špatné vidìní za šera
+
+Hemiparaplégie – polovièní paraplegie, tj. ochrnutí jen jedné konèetiny
+
+Hemiparéza – polovièní paréza, èásteèné ochrnutí jedné poloviny tìla
+
+Hemiplégie – ochrnutí, úplné ztráta hybnosti na jedné polovinì tìla
+
+Hemisféra – polokoule
+
+Hemofilie – náklonnost ke krvácení, dìdièní krvácivost u muù, pøenášená enami
+
+Heredita – dìdiènost
+
+Hermafroditismus – obojpohlavnost, vıskyt muskıch i enskıch pohlavních orgánù
+u tého jedince
+
+Homosexualita – pohlavní náklonnost k osobì tého pohlaví
+
+Hospitalismus – patologickı stav s negativní psychickou reakcí k hospitalizaci, vyvolanı dlouhım pobytem v nemocnici
+
+Hydrocefalie – vodnatelnost mozku, zmnoení tekutiny (likvoru) v mozkovıch dutinách
+
+Hydroterapie – vodoléèba
+
+Hyperaktivita – chorobné nadmìrné zvıšení èinnosti
+
+Hyperdaktylie – vrozenı nadmìrnı poèet prstù, také polydaktylie
+
+Hyperfunkce – zvıšená èinnost nìkterého orgánu
+
+Hyperglykémie – zvıšená koncentrace cukru v krvi
+
+Hyperlordóza – nadmìrné prohnutí páteøe dopøedu v èásti bederní
+
+Hypermetropie – dalekozrakost
+
+Hypertrofie – zbytnìní, nadmìrnı rùst nìkterého orgánu nebo jeho èásti zvìtšením jednotlivıch bunìk
+
+Hypnotika – uspávací prostøedky
+
+Hypoaktivita – chorobné sníení èinnosti
+
+Hypofunkce – chorobnì sníená èinnost
+
+Hypoglykémie – sníená koncentrace cukru v krvi
+
+Hypochondrie – sklon k zvelièování nebo vsugerování si nemoci, sklon povaovat domnìlé nebo bezvıznamné poruchy zdravotního stavu za mnohem vánìjší
+
+Hypotrofie – nedostateèná vıiva, omezení rùstu nìkterého orgánu nebo tkánì
+
+Hypotyreoidismus – chorobnı stav vyvolanı sníenou nebo zaniklou èinností štítné lázy
+
+Hysterie – pøedrádìnost popudlivost nervového pùvodu, druh neurózy
+
+Cholerik – prudkı, vznìtlivı, popudlivı èlovìk
+
+Chromatopsie – pøechodné vidìní barevnıch skvrn, barevné vidìní
+
+Chromozóm – tyèinkovitı útvar vyskytující se v jádru buòky, sloenı ze dvou chromatid a viditelnı v prùbìhu dìlení
+
+Chronickı – trvající delší dobu, stálı, vleklı
+
+Identickı – totonı, souhlasnı, stejnı
+
+Idiocie – tìkı stupeò slabomyslnosti (zastarale)
+
+Idioglosie – vlastní, osobitá øeè dítìte
+
+Imaginace – pøedstava, obrazotvornost, schopnost umìleckého zobrazení pøedstav, v logopedii mylná pøedstava
+
+Imbecilita – støední stupeò slabomyslnosti (zastarale)
+
+Imobilita – nepohyblivost, nehybnost
+
+Impotence – neschopnost, bezmocnost
+
+Incest – krvesmilství, pohlavní styk mezi blízkımi pøíbuznımi
+
+Individuum – jedinec, jednotlivec
+
+Infant – nemluvnì, dítì
+
+Infarkt – záha, ischemická nekróza, odumøení tkánì po zamezení pøívodu krve z uzavøené tepny
+
+Inferiorita – podøadnost, ménìcennost. Zaostalost, podøízenost, stav, kdy jedinec nemùe bıt aktivnì zapojen do spoleènosti
+
+Inkluze – úplné splynutí
+
+Inkoherence – nesouvislost, roztøíštìnost, nedostatek soudrnosti, rozklad, rozpad
+
+Instabilita – neklid, nápadná èetnost pohybù
+
+Integrace – sjednocení, spojení, vèlenìní
+
+Intelekt – porozumìní, rozum, rozumová schopnost, schopnost myšlení a poznání
+
+Interakce – vzájemná èinnost, vzájemné pùsobení
+
+Interdentála – mezizubní hláska, tj. vyslovovaná tak, e se hrot jazyka vsune mezi horní a dolní øezáky a souèasnì vznikne mezi høbetem hrotu jazyka a horními øezáky úina
+
+Interrupce – pøerušení
+
+Introverze – sklon osobnosti soustøeïovat všechen zájem na sebe
+
+Intuice – vnuknutí, tvùrèí èinnost, nápad bez rozumového zkoumání
+
+In vitro – termín pouívanı pro pokusy konané mimo ivé tìlo (ve zkumavce)
+
+In vivo – za ivota, v ivém organismu
+
+Ischémie – místní nedokrvenost tkánì
+
+Juvenilní – mladı, mladièkı, mladistvı, dospìlı chovající se jako v dobì dospívání
+
+Kalcifikace – zvápenatìní, ukládání vápníkovıch solí ve tkáních organismu
+
+Karcinogenní – nádorového, rakovinného pùvodu, vyvolávající nádorovı, rakovinnı rùst
+
+Kardiogram – grafickı záznam srdeèní èinnosti
+
+Karence – nedostatek, postrádání nìèeho
+
+Katamnéza – studium a popis choroby po jejím skonèení, sledování pacienta v dalším ivotì
+
+Kazuistika – souhrn klinickıch pozorování o prùbìhu tée nemoci u nìkolika nemocnıch, popis lékaøsky zajímavıch chorob
+
+Kinestézie – soubor pocitù urèujících polohu v prostoru bìhem pohybu
+
+Kinezioterapie – léèení pohybem, léèebnı tìlocvik, léèebné cvièení
+
+Kleptománie – nutkavá potøeba krást, chorobná vášeò a sklon ke krádeím,
+
+Klonus – záškub, škubavá køeè
+
+Koedukace – spoleèná vıchova chlapcù a dívek
+
+Koherence – souvislost, spojitost
+
+Kolaps – zhroucení, náhlé ochabnutí, mdloba
+
+Kombinace – spojování, sluèování
+
+Komoce – pohnutí, otøes
+
+Kompenzace – nahrazení, vyváení, vyrovnání, jedna ze speciálních pedagogickıch metod
+
+Komprese – stlaèení, stisknutí, zhuštìní
+
+Komunikace – spojení, spojování, styk, sdìlování a dorozumívání mezi jedinci
+
+Konfabulace – smyšlenka, zkreslování skuteènosti, smyšlenky malıch dìtí (nikoliv li)
+
+Konfúze – slití, zmatení, zmatené myšlení
+
+Konstituce – uspoøádání, souhrn zdìdìnıch nebo získanıch znakù u jedince
+
+Konvergence – sbíhavost, sbíhání se
+
+Konziliární – poradní
+
+Koordinace – uspoøádání, sestavení podle urèitého pravidla, harmonická souhra
+
+Korelace – vzájemnı vztah, souvislost, souvztanost
+
+Kranioschiza – vrozenı rozštìp lebky
+
+Kriminální – tıkající se trestního èinu, trestní
+
+Kryptorchismus – zadrení varlat, nesestoupení varlete do šourku
+
+Kumulace – hromadìní
+
+Kvadruparéza – èásteèné ochrnutí všech ètyø konèetin, také tetraparéza
+
+Kvadruplégie – úplné ochrnutí všech ètyø konèetin, také tetraplegie
+
+Kyfóza – chorobné obloukovité prohnutí páteøe dozadu
+
+Labilní – vratkı, nestálı, kolísavı, nepevnı
+
+Labiodentální – retozubnı
+
+Latentní – skrytı, bezpøíznakovı
+
+Lateralita – vrozené nebo získané pøednostní uívání orgánu jedné poloviny tìla
+
+Letargie – chorobná spavost, spánek blíící se bezvìdomí, stav chorobného útlumu, neteènost
+
+Leukémie – nádorové bujení bílıch krvinek
+
+Léze – poškození, porucha urèité struktury
+
+Logopedie – úsek speciální pedagogiky zabıvající se rozvojem, vıchovou a vzdìláváním osob s vadami øeèi
+
+Lokomoce – aktivní pohyb organismu z místa na místo
+
+Lordóza – chorobné prohnutí páteøe dopøedu
+
+Makrocefalie nebo makrokefalie – nadmìrnì velká hlava
+
+Maladaptace – špatná pøizpùsobivost, porucha pøizpùsobivosti, neschopnost pøizpùsobit se
+
+Maladjustace – nepøizpùsobivost
+
+Malformace – znetvoøení, zrùdnost
+
+Maligní – škodlivı, zhoubnı
+
+Mánie – druh psychické poruchy, zbìsilost, vášeò, náruivost
+
+Masochismus nebo mazochismus – pohlavní zvrácenost projevující se potøebou bıt tırán
+
+Masturbace – pohlavní sebeukájení, ipsace, onanie
+
+Melancholismus – útlum ivotní aktivity, tìkomyslnost, zádumèivost
+
+Meningitida – zánìt mozkovıch plen (blan)
+
+Meningoencefalitida – souèasnı zánìt mozku a mozkovıch blan
+
+Meningokéla – vrozenı vıhøez mozkovıch a míšních plen
+
+Meningomyelokela – cystickı vıhøez míšních plen a èásti míchy
+
+Menses – mìsíèky, mìsíèní krvácení, menstruace
+
+Metabolismus – látková pøemìna
+
+Metoda – postup, zpùsob
+
+Mezenchym – embryonální tkáò vzniklá z mezodermu, ze které se v organismu vytváøí pojivo, svalstvo, cévy
+
+Mikrocefalie – abnormálnì malá hlava, také mikrocefalus
+
+Mimika – vyjadøování vnitøního hnutí vırazem tváøe nebo pohyby
+
+Mobilní – pohyblivı
+
+Modifikace – úprava, pøizpùsobení se vnìjším vlivùm
+
+Monaurální – vztahující se k jednomu uchu
+
+Mongolismus – vrozená vada projevující se poruchou duševního a tìlesného vıvoje (zastaralı, nevhodnı název pro Downùv syndrom)
+
+Monoparéza – èásteèné ochrnutí jedné konèetiny
+
+Monoplégie – úplné ochrnutí jedné konèetiny
+
+Monosenzoriální – s úèastí jediného smyslu
+
+Morbidita – nemocnost, poèet chorob v pomìru k poètu obyvatelstva v urèitém èasovém údobí
+
+Motorika – pohybovost, hybnost, schopnost se pohybovat
+
+Multilaterální – mnohostrannı
+
+Multisenzoriální – s úèastí vìtšího poètu smyslù
+
+Muskulární – svalovı
+
+Mutace – náhlá pøemìna, zmìna hlasu v dospívání
+
+Muzikoterapie – léèení hudbou, meloterapie
+
+Myelidita – zánìt míchy, zánìt kostní døenì
+
+Myom – nezhoubnı nádor ze svalové tkánì
+
+Myopatie – obecnı název pro onemocnìní svalstva
+
+Myopie – mhouøení oèí, krátkozrakost
+
+Narcismus – pohlavní záliba v sobì samém, ve vlastním tìle, chorobná sebeláska
+
+Narkománie – chorobná touha po omamnıch látkách a jejich uívání s následnou závislostí (lépe drogová závislost)
+
+Negativismus – chorobnı odpor proti jakémukoliv vlivu, pùsobení èi poadavku okolí
+
+Nekróza – místní odumøení tkánì nebo orgánu v ivém organismu
+
+Neuralgie – bolest nervového pùvodu, záchvatová bolest v prùbìhu nervu
+
+Neurastenie – nervová slabost, vyèerpání
+
+Neurofyziologie – nauka o normální èinnosti nervového systému
+
+Neurologie – nauka o nervovıch chorobách a jejich léèení
+
+Neuron – nervová buòka, základní jednotka nervového systému
+
+Neuropatie – blíe nespecifikované onemocnìní nervù
+
+Neuropsychóza – chorobnı projev poruchy vyšší nervové soustavy, neuróza v kombinaci s psychotickımi projevy
+
+Neuróza – psychická porucha bez prokazatelné chorobné zmìny nervstva, pøi které nedochází ke zmìnám, je by se dotıkaly jádra osobnosti
+
+Obsedantní – nutkavı, vtíravı, vtírající se
+
+Obsese – nutkavá myšlenka, nutkavé jednání, chorobnì utkvìlá pøedstava, také anankasmus
+
+Obstinace – neústupnost, vzdorovitost, umínìnost, zarputilost
+
+Oftalmologie – nauka o oku a jeho chorobách, oèní lékaøství
+
+Okluze – uzavøení, závìr, pøekáka, skus
+
+Okluzor – prostøedek, kterého se pouívá pøi léèení dìtské šilhavosti k zakrytí lépe vidícího oka
+
+Oligofrenie – vrozená nebo získaná slabomyslnost, rozumová ménìcennost
+
+Onanie – pohlavní sebeukájení, ipsace, masturbace
+
+Onkologie – nauka o nádorech
+
+Ontogeneze – vıvoj jedince od zárodku a do zániku, prùbìh celého ivota
+
+Onychofagie – okusování nehtù
+
+Opium – omamnı prostøedek, šáva z nezralıch makovic obsahující rùzné alkaloidy
+
+Optika – nauka o svìtle
+
+Optotyp – tabulka ke stanovení zrakové ostrosti
+
+Ortodoncie – nauka o nepravidelnosti chrupu a jeho léèení
+
+Ortografie – pravopis
+
+Ortopedie – nauka o vrozenıch a získanıch vadách tvaru nebo polohy pohybového ústrojí a jejich léèení, chirurgie pohybového ústrojí
+
+Ortoptika – náprava zraku tupozrakıch
+
+Osifikace - kostnatìní, pøemìna v kostní døeò
+
+Osteoartritida – zánìt kosti a kloubu
+
+Osteomyelitida – zánìt kostní døenì
+
+Otitida – zánìt ucha
+
+Otolaryngologie – lékaøství ušní a krèní
+
+Otorinolaryngologie (ORL) – nauka o chorobách ušních, nosních a krèních, ušní, nosní a krèní oddìlení v nemocnici
+
+Otoskopie – vyšetøovací metoda pøímım pozorováním ušního orgánu
+
+Palatála – mìkká souhláska tvoøená na pøedním patru (ï, , ò)
+
+Palatofonie – patologicky zvıšenı nosovı pøízvuk pøi rozštìpu patra
+
+Palatolálie – vada øeèi zpùsobená rozštìpem patra
+
+Parafrenie – duševní onemocnìní charakterizované bludy a halucinacemi, pøi nich však nedochází k tìkému rozvratu rozumovıch schopností a k rozštìpu osobnosti
+
+Paraplégie – úplné oboustranné ochrnutí dolních nebo horních konèetin
+
+Paréza – neúplná obrna, neúplné ochrnutí nìkterıch èástí tìla
+
+Paternita – otcovství, autorství
+
+Patogeneze – pùvod a prùbìh vıvoje nemoci
+
+Patologie – nauka o nemocech, chorobnıch pochodech a zmìnách v organismu
+
+Patopsychologie – nauka o chorobnıch duševních stavech
+
+Pavor nocturnus – noèní dìs, dìsivé pøedstavy a bludy pøi rùznıch psychózách
+
+Pedagogika – vìda o vıchovì, vzdìlávání a vyuèování
+
+Pediatrie - dìtské lékaøství
+
+Pedofilie – pohlavní náklonnost k mladistvım, pohlavní zneuívání dìtí
+
+Pedopatologie – vìda o chorobách mládee
+
+Percepèní – vnímající, citlivı
+
+Perforace – prodìravìní, proniknutí, proraení
+
+Periferní – obvodovı, okrajovı, vzdálenı od støedu
+
+Perinatální – tıkající se období porodu a deseti dnù po porodu
+
+Plasticida – poddajnost, tvárlivost, vıraznost, názornost
+
+Plégie – obrna, úplná ztráta hybnosti
+
+Poliomyelitida – zánìt šedé hmoty míšní
+
+Polydaktylie – vrozenı nadmìrnı poèet prstù ruky nebo nohy, hyperdaktylie
+
+Populace – obyvatelstvo, souhrn osob ijících v urèité dobì na urèitém místì, zalidnìní
+
+Postnatální – tıkající se vıvoje po narození
+
+Praxe – vıkon zamìstnání, zkušenost, zbìhlost
+
+Predispozice – náchylnost, sklon, vrozená nebo ji pøedem získaná podmínka pro urèitı jev, chorobu
+
+Prenatální – tıkající se emryonálního a fetálního období vıvoje
+
+Presbyopie – staøecká dalekozrakost
+
+Prevence – pøedcházení, vèasná ochrana
+
+Profylaxe – pøedbìná ochrana pøed nemocí, ochrannı zákrok, provádìnı v dobì, kdy ještì nenastalo nebezpeèí infekce
+
+Prognóza – pøedpovìï
+
+Pronace – stoèení ruky s vnitøní plochou palce, stoèení konèetiny dovnitø podle podélné osy
+
+Protéza – umìlá náhrada chybìjící èásti tìla
+
+Pseudofobie – strach ze li
+
+Pseudooligofrenie – zdánlivá, nepravá slabomyslnost, vysvìtlitelná napø. smyslovımi vadami, sociálním prostøedím
+
+Psychastenie – duševní porucha s pøíznaky únavy, duševní stísnìnosti
+
+Psychiatrie – lékaøskı obor zabıvající se duševními poruchami
+
+Psychickı – duševní, tıkající se duševních pochodù
+
+Psychoanalıza – léèení duševních chorob, zvláštì neuróz, rozborem psychického dìní
+
+Psychogenní – psychicky podmínìnı, vzniklı pùsobením duševních reakcí
+
+Psychologie – nauka o zákonitostech, vıvoji a projevech duševní èinnosti
+
+Psychomotorickı – tıkající se duševních a hybnıch jevù, pøevádìjící v pohyb volní popudy
+
+Psychoneuróza – projev poruchy vyšší nervové èinnosti bez stálıch zmìn anatomickıch
+
+Psychopatologie – obor zabıvající se odchylnımi duševními projevy
+
+Psychopedie – úsek speciální pedagogiky zabıvající se rozvojem, vıchovou
+a vzdìláváním osob s mentálním postiením
+
+Psychoterapie – cílevìdomé léèebné pùsobení na duševní stav èlovìka
+
+Reakce – zpìtné pùsobení, odezva, odpovìï,  odpor, proces chemické pøemìny látek
+
+Recidiva – opakování, návrat choroby
+
+Redukce – omezení, zjednodušení, zmenšení
+
+Reedukace – jedna ze speciálnì pedagogickıch metod, pøeškolení, pøevıchova
+
+Reflex – ohnutí, bezdìèná reakce organismu na vnìjší podnìt zprostøedkovaná nervstvem, odezva, ohlas, odraz svìtla, odlesk
+
+Refrakce – lom svìtla, opìtovné zlomení chybnì srostlé kosti
+
+Regrese – ústup, zpìtnı vıvoj
+
+Rehabilitace – soubor opatøení napravující orgánové defekty a vracející porušenou funkci
+
+Rekonvalescence – zotavení po nemoci, období uzdravování
+
+Reparace – oprava, náprava, nahrazení, obnovení
+
+Represe – potlaèování, utlumení nevhodného, škodlivého jednání
+
+Resocializace – opìtné zapojení do spoleènosti, zpìtné vytváøení sociálních vztahù
+
+Respiraèní – dechovı, dıchací
+
+Retardace – zpomalení, opodìní, zaostávání, zpomalenı, opodìnı vıvoj
+
+Retence – zadrení, zástava, pøidrení, udrení
+
+Retikulární – síkovitı, síkovı
+
+Rezistence – odpor, odolnost vùèi vnìjším vlivùm
+
+Rezonance – ozvìna, ozvuk, odezva, ohlas
+
+Rinolálie – mluvení nosem, huhòání, nosovost
+
+Rinoragie – silné krvácení z nosu
+
+Sadismus – sexuální úchylka libující si v krutosti
+
+Sadomasochismus – sexuální úchylka, kdy se nachází uspokojení ze zakoušeného trıznìní a trıznìní druhıch
+
+Sangvinik – èlovìk horkokrevnı, vznìtlivı, prudce reagující
+
+Sedativa – léky uklidòující, utišující, zmíròující bolesti
+
+Segregace – odluèování, oddìlování
+
+Sekrece – vyluèování, vymìšování, oddìlování
+
+Senilní – staøeckı, vetchı
+
+Senzomotorickı – vztahující se k citlivosti a pohybu
+
+Schizofrenie – rozštìp mysli, rozpad osobnosti
+
+Simultánní – souèasnı
+
+Skleróza – kornatìní, chorobné tvrdnutí tkánì nebo orgánù
+
+Skolióza – vychılení páteøe ve frontální rovinì
+
+Socializace – zapojení do spoleènosti po stránce spoleèenské, pracovní i subjektivní
+
+Sociologie – nauka o lidské spoleènosti, o spoleèenskıch jevech a vztazích
+
+Somatologie – tìlovìda, nauka o tìle
+
+Somatopedie – úsek speciální pedagogiky zabıvající se vıchovou tìlesnì postienıch
+
+Spasma nebo spazma, spasmus nebo spazmus – køeè, sevøení, køeèovı, stah
+
+Stereopsie – pevnı, nemìnnı tvar, stav, návyk automaticky pouívanı
+
+Stimulace – drádìní, povzbuzování, podnìcování
+
+Stomatologie – lékaøskı vìdní obor zabıvající se chorobami úst, èelistí a zubù
+
+Strabismus – šilhavost, šilhání
+
+Subnormalita – podprùmìrnı vıvoj, podprùmìrné schopnosti, podprùmìrné nadání
+
+Sugesce – navození urèitıch myšlenek, pokynù druhému, neúmyslné podléhání druhé osobì bez rozumovıch dùvodù
+
+Supinace – odvrácení, otoèení horní konèetiny dlaní nahoru, dolní konèetiny zevním okrajem nohy dolù
+
+Surditas – hluchota
+
+Surdomutitas – hluchonìmost
+
+Surdopedagogika – vìda o vıchovì neslyšících
+
+Symptom – pøíznak, projev
+
+Syndaktylie – vrozenı srùst dvou nebo více prstù
+
+Syndrom – soubor, skupina pøíznakù charakterizujících chorobnı stav
+
+Syntéza – skládání, shrnutí, sluèování
+
+Taktilní – hmatovı, dotykovı
+
+Terapie – ošetøování, léèení, léèba
+
+Termoterapie – léèení teplem
+
+Tonus – napìtí
+
+Torpidní – nehybnı, neèinnı, tupı, neteènı
+
+Toxikománie – vášnivá touha po poívání jedovatıch látek, chorobná závislost na urèité droze
+
+Transplantace – operaèní pøenos bunìk, tkánì nebo orgánu
+
+Trauma – poranìní, úraz
+
+Tyflologie – vìda zabıvající se zrakovì postienımi a jejich spoleèenskou existencí
+
+Tyflopedie – úsek speciální pedagogiky zabıvající se rozvojem, vıchovou a vzdìláváním osob zrakovì postienıch
+
+Typ – druh, vzor, forma, pøíklad, pøedstavitel skupiny, kterı má všechny základní znaky spoleèné všem jednotlivcùm
+
+Typologie – nauka o typech a tøídìní na typy
+
+Urémie – moèokrevnost, vnitøní otrava organismu moèovımi látkami
+
+Utilita – uiteènost, prospìšnost, vhodnost
+
+Vegetace – rostlinstvo, rùst rostlin, bujení, vırùstek
+
+Verbalismus – nadmìrná, zbyteèná mnohomluvnost
+
+Vibrace – chvìní, kmitání
+
+Vitalita – ivotnost, ivotaschopnost, ivotní síla
+
+Vokalizace – jasné a pøesné vyslovování samohlásek a slabikotvornıch hlásek v øeèi nebo pøi zpìvu
+
+Zoofobie – chorobnı strach pøed zvíøaty
+
+ 
+
+Zpracováno volnì podle publikace:
+
+ 
+
+Šenkıøová, R.: Úvod do základù terminologie pro speciální pedagogy. Brno: MU. 1994

@@ -1,0 +1,16 @@
+---
+title: "Prùmìr.xls"
+source: "/mnt/f/git/mgr/FPE_navazujici/3. Semestr/DV2ST/priklady/vzorce/Prùmìr.xls"
+date: 2003-03-25
+type: XLSX
+---
+
+| Průměr známek z matematiky |  |  | 
+| --- | --- | --- |
+|  |  |  | 
+| dílčí známky | průměr | zaokrouhlená známka | 
+| 1 | 2.4 | 2 | 
+| 5 |  |  | 
+| 2 |  |  | 
+| 2 |  |  | 
+| 2 |  |  | 

@@ -1,0 +1,23 @@
+---
+title: "TRENINK.XLS"
+source: "/mnt/f/git/mgr/FPE_navazujici/Praxe/Inf/Excel_od_ucitele/priklady/Grafy/TRENINK.XLS"
+date: 1997-05-12
+type: XLSX
+---
+
+| Účast na tréninku v měsíci: |  |  | září | 
+| --- | --- | --- | --- |
+|  |  |  |  | 
+| Karel | 20 |  |  | 
+| Josef | 22 |  |  | 
+| Jana | 24 |  |  | 
+| Igor | 24 |  |  | 
+| Pavel | 23 |  |  | 
+| Jiří | 4 |  |  | 
+| Hana | 3 |  |  | 
+| Zdena | 19 |  |  | 
+| Václav | 18 |  |  | 
+| Marie | 17 |  |  | 
+| Tereza | 18 |  |  | 
+| Iveta | 21 |  |  | 
+| Martin | 17 |  |  | 

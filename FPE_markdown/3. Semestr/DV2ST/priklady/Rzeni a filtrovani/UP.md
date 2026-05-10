@@ -1,0 +1,57 @@
+---
+title: "UP.XLS"
+source: "/mnt/f/git/mgr/FPE_navazujici/3. Semestr/DV2ST/priklady/Rzeni a filtrovani/UP.XLS"
+date: 2003-02-17
+type: XLSX
+---
+
+|  |  |  |  |  |  |  |  |  |  |  | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Přehled zaměstnanců Univerzity Palackého |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  | jméno | příjmení | pohlaví | rok narození | počet dětí | stav | katedra | dveře číslo |  |  | 
+|  | Petr | Kolesnikov | M | 44 | 3 | ženatý | KEPO | 245 |  |  | 
+|  | Jana | Nováková | Ž | 49 | 3 | vdaná | KEPO | 340 |  |  | 
+|  | Eva | Sýkorová | Ž | 68 | 0 | svobodná | KEPO | 330 |  |  | 
+|  | Jana | Horká | M | 60 | 0 | svobodná | KORV | 320 |  |  | 
+|  | Pavla | Janků | Ž | 41 | 1 | vdaná | KORV | 320 |  |  | 
+|  | Jan | Lopata | M | 53 | 0 | svobodný | KORV | 301 |  |  | 
+|  | Jaroslav | Novák | M | 77 | 0 | svobodný | KORV | 240 |  |  | 
+|  | Jiřina | Levá | Ž | 29 | 1 | vdaná | KPM | 415 |  |  | 
+|  | Alena | Malá | Ž | 32 | 2 | vdaná | KPM | 415 |  |  | 
+|  | Jana | Nová | Ž | 60 | 0 | svobodná | KPM | 5 |  |  | 
+|  | Romana | Nováčková | Ž | 53 | 2 | vdaná | KPM | 420 |  |  | 
+|  | Kamil | Svoboda | M | 72 | 1 | ženatý | KPM | 220 |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  | Přehled zaměstnanců Univerzity Palackého |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  | jméno | příjmení | pohlaví | rok narození | počet dětí | stav | katedra | dveře číslo |  | třídění podle příjmení a jména | 
+|  | Jana | Horká | M | 60 | 0 | svobodná | KORV | 320 |  |  | 
+|  | Pavla | Janků | Ž | 41 | 1 | vdaná | KORV | 320 |  |  | 
+|  | Petr | Kolesnikov | M | 44 | 3 | ženatý | KEPO | 245 |  |  | 
+|  | Jiřina | Levá | Ž | 29 | 1 | vdaná | KPM | 415 |  |  | 
+|  | Jan | Lopata | M | 53 | 0 | svobodný | KORV | 301 |  |  | 
+|  | Alena | Malá | Ž | 32 | 2 | vdaná | KPM | 415 |  |  | 
+|  | Jana | Nová | Ž | 60 | 0 | svobodná | KPM | 5 |  |  | 
+|  | Romana | Nováčková | Ž | 53 | 2 | vdaná | KPM | 420 |  |  | 
+|  | Jaroslav | Novák | M | 77 | 0 | svobodný | KORV | 240 |  |  | 
+|  | Jana | Nováková | Ž | 49 | 3 | vdaná | KEPO | 340 |  |  | 
+|  | Kamil | Svoboda | M | 72 | 1 | ženatý | KPM | 220 |  |  | 
+|  | Eva | Sýkorová | Ž | 68 | 0 | svobodná | KEPO | 330 |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  |  | 
+|  | jméno | příjmení | pohlaví | rok narození | počet dětí | stav | katedra | dveře číslo |  |  | 
+|  | Eva | Sýkorová | Ž | 68 | 0 | svobodná | KEPO | 330 |  | Přijmout | 
+|  | Jana | Horká | M | 60 | 0 | svobodná | KORV | 320 |  | Přijmout | 
+|  | Jana | Nová | Ž | 60 | 0 | svobodná | KPM | 5 |  | Přijmout | 
+|  | Jaroslav | Novák | M | 77 | 0 | svobodný | KORV | 240 |  | Přijmout | 
+|  | Kamil | Svoboda | M | 72 | 1 | ženatý | KPM | 220 |  | Přijmout | 
+|  | Alena | Malá | Ž | 32 | 2 | vdaná | KPM | 415 |  | Nepřijmout | 
+|  | Jan | Lopata | M | 53 | 0 | svobodný | KORV | 301 |  | Nepřijmout | 
+|  | Jana | Nováková | Ž | 49 | 3 | vdaná | KEPO | 340 |  | Nepřijmout | 
+|  | Jiřina | Levá | Ž | 29 | 1 | vdaná | KPM | 415 |  | Nepřijmout | 
+|  | Pavla | Janků | Ž | 41 | 1 | vdaná | KORV | 320 |  | Nepřijmout | 
+|  | Petr | Kolesnikov | M | 44 | 3 | ženatý | KEPO | 245 |  | Nepřijmout | 
+|  | Romana | Nováčková | Ž | 53 | 2 | vdaná | KPM | 420 |  | Nepřijmout | 
