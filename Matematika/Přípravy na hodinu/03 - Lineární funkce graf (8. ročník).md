@@ -11,7 +11,7 @@
 | **Číslo hodiny v sekvenci** | H19 (ze Sekvence 8. ročník) |
 | **Časová dotace** | 45 minut |
 | **Cíle hodiny** | Žák sestrojí graf lineární funkce z předpisu; rozliší stoupající/klesající/konstantní; určí předpis z grafu |
-| **Výstup RVP ZV** | M-9-4-01 Závislosti a funkce |
+| **Výstup RVP ZV** | M-9-2-04 Závislosti, vztahy a práce s daty – lineární funkce |
 | **Metody** | Výklad, práce s grafem na tabuli, samostatná práce |
 | **Pomůcky** | Čtvercovaný papír / sešit se čtverečky, pravítko, barevné křídě/fixy |
 

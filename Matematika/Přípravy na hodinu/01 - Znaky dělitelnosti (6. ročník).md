@@ -11,7 +11,7 @@
 | **Číslo hodiny v sekvenci** | H12 (z Sekvence 6. ročník) |
 | **Časová dotace** | 45 minut |
 | **Cíle hodiny** | Žák určí, zda je číslo dělitelné 2/3/5/9/10 bez dělení; žák zdůvodní proč |
-| **Výstup RVP ZV** | M-9-1-01 Přirozená čísla – dělitelnost |
+| **Výstup RVP ZV** | M-9-1-03 Dělitelnost přirozených čísel |
 | **Metody** | Výklad, frontální procvičování, skupinová aktivita |
 | **Pomůcky** | Tabule, pracovní listy (1 sada na 2 žáky), kalkulačky (pro ověření) |
 

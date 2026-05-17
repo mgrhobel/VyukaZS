@@ -11,7 +11,7 @@
 | **Číslo hodiny v sekvenci** | H21 (ze Sekvence 7. ročník) |
 | **Časová dotace** | 45 minut |
 | **Cíle hodiny** | Žák vypočítá základ (celek) ze zadaného procentního dílu; aplikuje v slovních úlohách |
-| **Výstup RVP ZV** | M-9-1-01 Racionální čísla – procenta |
+| **Výstup RVP ZV** | M-9-1-06 Procenta – aplikační úlohy |
 | **Metody** | Výklad s problémovým otevřením, frontální cvičení, samostatná práce |
 | **Pomůcky** | Tabule, pracovní list, kalkulačky |
 | **Návaznost** | Předchozí hodina: výpočet procentního dílu a procentní části; toto je třetí typ |

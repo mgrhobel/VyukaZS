@@ -11,7 +11,8 @@
 | **Číslo hodiny v sekvenci** | H8 (ze Sekvence 9. ročník) |
 | **Časová dotace** | 45 minut |
 | **Cíle hodiny** | Žák vypočítá diskriminant a kořeny kvadratické rovnice; správně rozliší počet řešení; ověří výsledek dosazením |
-| **Výstup RVP ZV** | M-9-3-02 Kvadratické rovnice |
+| **Výstup RVP ZV** | M-9-1-08 Číslo a proměnná – rovnice a jejich soustavy |
+| **Poznámka RVP** | Kvadratické rovnice jsou rozšíření nad RVP minimum (RVP uvádí pouze lineární rovnice a soustavy); škola zařazuje jako obohacení pro 9. ročník |
 | **Metody** | Výklad s odvozením, frontální procvičování, diferenciovaná samostatná práce |
 | **Pomůcky** | Tabule, pracovní list |
 | **Návaznost** | Minulá hodina: neúplné kvadratické rovnice. Příští: Viètovy vzorce, slovní úlohy. |
