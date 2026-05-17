@@ -1,5 +1,9 @@
 # Příprava na hodinu – Informační systémy – úvod a struktura (9. ročník)
 
+> ⚠️ **Rozšiřující téma – blíže k SŠ úrovni**  
+> Konceptuální přehled IS (co je informační systém, prvky, rizika) je na hranici ZŠ a SŠ. Na ZŠ je přijatelné jako diskusní hodina a propojení s digitální gramotností.  
+> **Doporučení:** Probrat jen jako „přehled a orientace ve světě IT systémů" – bez technické implementace. Analýza IS, architektura a vývoj patří na SŠ (obor Informatika, Informační služby).
+
 ```
 ═══════════════════════════════════════════════════════
 PŘÍPRAVA NA VYUČOVACÍ HODINU – INFORMATIKA

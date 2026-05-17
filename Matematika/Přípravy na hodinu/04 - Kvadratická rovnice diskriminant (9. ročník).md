@@ -15,7 +15,7 @@
 | **Poznámka RVP** | Kvadratické rovnice jsou rozšíření nad RVP minimum (RVP uvádí pouze lineární rovnice a soustavy); škola zařazuje jako obohacení pro 9. ročník |
 | **Metody** | Výklad s odvozením, frontální procvičování, diferenciovaná samostatná práce |
 | **Pomůcky** | Tabule, pracovní list |
-| **Návaznost** | Minulá hodina: neúplné kvadratické rovnice. Příští: Viètovy vzorce, slovní úlohy. |
+| **Návaznost** | Minulá hodina: neúplné kvadratické rovnice. Příští: slovní úlohy vedoucí na kvadratické rovnice. |
 
 ---
 

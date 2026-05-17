@@ -1,5 +1,9 @@
 # Příprava na hodinu – Python soubory a chyby (8. ročník)
 
+> ⚠️ **Rozšiřující téma – blíže k SŠ úrovni**  
+> Práce se soubory (`open`, `with`) a ošetření chyb (`try/except`) jsou pokročilé Python koncepty. Dle RVP ZV 2023 nejsou povinné pro ZŠ.  
+> **Doporučení:** Vhodné pouze pro nadané žáky nebo jako volitelný rozšiřující blok v 8.–9. ročníku. Běžně se probírá v 1. ročníku SŠ oboru Informatika.
+
 ```
 ═══════════════════════════════════════════════════════
 PŘÍPRAVA NA VYUČOVACÍ HODINU – INFORMATIKA

@@ -1,5 +1,9 @@
 # Příprava na hodinu – Python funkce (7. ročník)
 
+> ⚠️ **Rozšiřující téma – blíže k SŠ úrovni**  
+> Základní funkce (`def`, `return`) jsou dle RVP ZV 2023 pro 7.–9. ročník ZŠ OK, ale Python textové programování je náročnější.  
+> **Doporučení:** Použít jen pro třídy se silnějším zájmem o programování nebo po jistém Scratch základu. Na SŠ se Python probírá systematicky s OOP, moduly, knihovnami.
+
 ```
 ═══════════════════════════════════════════════════════
 PŘÍPRAVA NA VYUČOVACÍ HODINU – INFORMATIKA

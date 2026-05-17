@@ -1,5 +1,9 @@
 # Příprava na hodinu – Sítě a web: jak funguje internet (9. ročník)
 
+> ⚠️ **Částečně rozšiřující téma**  
+> **ZŠ část (OK):** Princip internetu, IP adresy, DNS, HTTPS, digitální bezpečnost – vše dle RVP ZV 2023.  
+> **SŠ přesah (volitelné):** Použití nástrojů `ping`, `tracert`, `Wireshark` – vhodné pouze ukázkově nebo pro nadané žáky. Na SŠ oboru Informatika/Sítě se probírá OSI model, konfigurace sítě, protokoly systematicky.
+
 ```
 ═══════════════════════════════════════════════════════
 PŘÍPRAVA NA VYUČOVACÍ HODINU – INFORMATIKA
