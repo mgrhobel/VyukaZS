@@ -1,0 +1,43 @@
+Informatika
+Informatika, jako obor zabývající se zákonitostmi vzniku, zpracování, přenosu a využívání informací, má i pro běžný praktický život žáků v současném, technicky vyspělém světě vzrůstající význam. Převážná část informací je v současnosti uložena na magnetických nosičích. Z těchto důvodů je nezbytné vybavit žáka znalostmi a dovednostmi z oblasti výpočetní techniky. Kromě znalosti manipulace s počítačem na základní uživatelské úrovni je důležité rozvinout u žáka tvořivou schopnost uplatnit dosažené znalosti a dovednosti při řešení praktických problémů, s nimiž se setkává ve škole i mimo školu.
+
+Obsahové, časové a organizační vymezení – v 5. , 7. a 9. ročníku po jedné hodině týdně, všichni žáci v 5. ročníku získají základy práce na počítači pro vstup na 2. stupeň nebo pro výstup na víceleté gymnázium, v 9. ročníku pro výstup na střední školy. Žáci mohou být v hodině děleni do dvou skupin.
+
+
+Žáci jsou vedeni k chápání a správnému užívání pojmů z oblasti hardware, software, práce v síti, k praktickému zvládnutí práce s grafikou, textem, s tabulkami a k tvorbě prezentací.Pro všechny nástroje se žáci učí používat vyhledávání na Internetu. Ke vzájemné komunikaci a předávání informací a dat se učí používat elektronickou poštu a programy typu MS Teams.
+
+Nejdůležitější integrovaná průřezová témata:
+OSV-komunikace
+VDO-občanská společnost a škola
+VME-Evropa a svět
+MV-Lidské vztahy, multikultura
+MDV-kritické čtení a vnímaní mediálních sdělení, interpretace vztahu mediálních sdělení, vnímaní autora med.sdělení
+Při hodnocení žáků v předmětu ICT je zastoupeno jak teoretické tak i výchovné zaměření.
+
+
+KOMPETENCE K UČENÍ
+učíme je základní dovednosti práce s PC
+vedeme je k poznání úlohy informací a k využívání informačních a komunikačních technologií v praktickém životě
+umožňujeme jim porozumět toku informací – jejich vzniku, uložení na média, přenosu, zpracování, vyhledávání a praktické využití
+vedeme je k chápání a správnému užívání pojmů z oblasti hardware, software a počítačových sítí
+
+
+KOMPETENCE K ŘEŠENÍ PROBLÉMŮ
+učíme je formulovat požadavky, nalézat řešení a tvořivě přistupovat k jejich realizaci pomocí počítačových technologií
+zadáváme žákům takové úlohy, při kterých porovnávají informace a poznatky z většího množství informačních zdrojů a tím dosahují větší věrohodnosti vyhledaných informací
+
+
+KOMPETENCE KOMUNIKATIVNÍ
+zapojujeme žáky do týmové práce, která je založená na komunikaci mezi žáky
+učíme je využívat ICT při komunikaci na dálku
+vedeme je k tvořivému využívání softwarových a hardwarových prostředků při prezentaci výsledků své práce
+
+KOMPETENCE OBČANSKÉ
+poukazujeme na dodržování platné legislativy a obecných morálních zásad v souvislosti s ICT – nelegální software, autorský zákon, ochrana osobních údajů, …
+vedeme je ke kritickému myšlení a zaujetí odpovědného přístupu k nevhodným obsahům vyskytujícím se na internetu či jiných médiích
+
+
+KOMPETENCE PRACOVNÍ
+seznamujeme je s bezpečnostními a hygienickými pravidly pro práci s výpočetní technikou a vedeme je k jejich dodržování
+vyžadujeme šetrnou práci s výpočetní technikou
+ukazujeme jim cesty jak využit ICT pro hledání informací důležitých pro svůj další profesní růst

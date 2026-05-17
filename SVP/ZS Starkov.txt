@@ -1,0 +1,1451 @@
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+298
+7 Informatika
+Vyučovací předmět: Informatika
+Vzdělávací oblast: Informatika
+Vzdělávací obor: Informatika
+Charakteristika vyučovacího předmětu
+Předmět informatika dává prostor všem žákům porozumět tomu, jak funguje počítač
+a informační systémy. Zabývá se automatizací, programováním, optimalizací činností,
+reprezentací dat v počítači, kódováním a modely popisujícími reálnou situaci nebo problém.
+Dává prostor pro praktické aktivní činnosti a tvořivé učení se objevováním, spoluprací,
+řešením problémů, projektovou činností. Pomáhá porozumět světu kolem nich, jehož
+nedílnou součástí digitální technologie jsou.
+Hlavní důraz je kladen na rozvíjení žákova informatického myšlení s jeho složkami
+abstrakce, algoritmizace a dalšími. Praktickou činnost s tvorbou jednotlivých typů dat
+a s aplikacemi vnímáme jako prostředek k získání zkušeností k tomu, aby žák mohl
+poznávat, jak počítač funguje, jak reprezentuje data různého typu, jak pracují informační
+systémy a jaké problémy informatika řeší.
+Škola je zaměřena na informatiku a technické směřování rozvoje žáků, proto jsou do výuky
+zařazeny základy robotiky jako aplikovaná oblast, propojující informatiku a programování
+s technikou, umožňují řešit praktické komplexní problémy, podporovat tvořivost
+a projektovou činnost a rozvíjet tak informatické myšlení.
+Škola klade důraz na rozvíjení digitální gramotnosti v ostatních předmětech, k tomu přispívá
+informatika svým specifickým dílem.
+Organizační a obsahové vymezení vyučovacího předmětu
+Předmět Informatika je zařazen v rozsahu 1 vyučovací hodiny týdně od 4. ročníku. Výuka
+probíhá na počítačích, noteboocích s myší či tabletech, buď v PC učebně, nebo v běžné
+učebně s přenosnými notebooky, s připojením k internetu. Některá témata probíhají bez
+počítače.
+V řadě činností preferujeme práci žáků ve dvojicích u jednoho počítače, aby docházelo
+k diskusi a spolupráci. Žák nebo dvojice pracuje individuálním tempem.
+Výuka je orientována činnostně, s aktivním žákem, který objevuje, experimentuje, ověřuje
+své hypotézy, diskutuje, tvoří, řeší problémy, spolupracuje, pracuje projektově, konstruuje
+své poznání.
+Není kladen naprosto žádný důraz na pamětné učení a reprodukci.
+Pro výuku jsou zakoupené následující pomůcky:
+● robot Photon( 1-2 žáci - 1 robot)
+● programovatelná deska Micro:bit (na 1 žáka - 1 deska)
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+299
+● Stavebnice k desce Micro:bit (Starter kit, Tinker kit, stavebnice pro chytrou
+domácnost a internet věcí; „autíčka“)
+I. stupeň
+Průřezová témata
+Do vyučovacího předmětu Informatika jsou zařazena průřezová témata: Osobnostní a
+sociální výchova, Mediální výchova.
+Osobnostní a sociální výchova
+je v předmětu Informatika zaměřena na osobnosti žáků, kteří získávají vědomosti a
+elementární dovednosti v ovládání výpočetní techniky. Učí se řešit dané problémy v tomto
+oboru. Jsou vedeni ke kreativitě. Poznávají nové informační a komunikační technologie.
+Rozvíjí se tak osobnost žáka, jeho sociální dovednosti a přispívá k uvědomování si hodnot.
+Mediální výchova
+vede žáky ke kritickému čtení a vyhodnocování získaných informací z počítače z hlediska
+jejich záměru a z hlediska jejich vztahu k realitě. Vede ke kritickému vnímání získaných
+informací, a také k praktické tvorbě a práci v realizačním týmu.
+Výchovné a vzdělávací strategie:
+Kompetence k učení
+Klademe důraz na pozitivní motivaci žáka.
+Vybíráme a využívá vhodné způsoby. metody a strategie při výuce.
+Vedeme žáky k vyhledávání a třídění informací a na základě jejich pochopení, propojení a
+systematizace se učí tyto informace využívat v procesu učení, tvůrčích činnostech a
+praktickém životě.
+Kompetence k řešení problémů
+Motivujeme žáka k samostatnému řešení daného problému.
+Zadáváme úkoly k posílení schopnosti žáka využívat vlastních zkušeností.
+Předkládáme modelové situace a vede žáka k jejich optimálnímu řešení s využitím kreativity.
+Motivujeme žáka ke kritickému myšlení a uvážlivému rozhodnutí, zodpovědnosti za svá
+rozhodnutí.
+Kompetence komunikativní
+Nabízíme žákům k využívání informační a komunikační technologie pro komunikaci s
+okolním světem.
+Kompetence sociální a personální
+Zařazujeme práci ve skupině a klade důraz na vytvoření pravidel práce v týmu (organizace
+práce, rozdělení rolí, spolupráce, ohleduplnost) a jejich respektování samotnými žáky.
+Uplatňujeme individuální přístup k žákům. Individualizujeme zadání úkolů i jejich hodnocení.
+Vnášíme přátelskou atmosféru do procesu výuky.
+Posilujeme sebedůvěru žáka a jeho samostatný rozvoj.
+Kompetence občanské
+Respektujeme věkové, intelektové, sociální zvláštnosti žáka.
+Učíme žáky chápat dané zákony a společenské normy.
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+300
+Kompetence pracovní
+Učíme žáka přistupovat k výsledkům pracovní činnosti z hlediska kvality a funkčnosti a
+společenského významu.
+Kontrolujeme samostatné práce žáků.
+Klademe důraz na dodržování vymezených pravidel v učebně informatiky.
+Podporujeme využívání získaných znalostí a zkušeností v rozvoji žáka.
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+301
+Tematické celky
+4. ročník
+Ovládání digitálního zařízení
+Tematický celek RVP
+Digitální technologie
+Očekávané výstupy RVP
+Žákyně/žák:
+● najde a spustí aplikaci, pracuje
+s daty různého typu
+● dodržuje bezpečnostní a jiná
+pravidla pro práci s digitálními
+technologiemi
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● pojmenuje jednotlivá digitální
+zařízení, se kterými pracuje,
+vysvětlí, k čemu slouží
+● vysvětlí, co je program a rozdíly
+mezi člověkem a počítačem
+● edituje digitální text, vytvoří obrázek
+● přehraje zvuk či video
+● uloží svoji práci do souboru, otevře
+soubor
+● používá krok zpět, zoom
+● řeší úkol použitím schránky
+● dodržuje pravidla a pokyny při práci
+s digitálním zařízením
+Zdroje
+A: metodika Základy informatiky pro 1. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-1-stupen-zs)
+B: učebnice Informatika pro 1. stupeň základní školy
+(https://www.albatrosmedia.cz/tituly/12848534/informatika-pro-1-stupen-zakladni-skoly/)
+C: Jednoduché ovládání počítače (http://home.pf.jcu.cz/jop/)
+D: Datová Lhota (https://decko.ceskatelevize.cz/datova-lhota/ve-skole)
+Učivo
+Digitální zařízení
+Zapnutí/vypnutí zařízení/aplikace
+Ovládání myši
+Kreslení čar, vybarvování
+Používání ovladačů
+Ovládání aplikací (schránka, krok zpět,
+zoom)
+Kreslení bitmapových obrázků
+Psaní slov na klávesnici
+Editace textu
+Ukládání práce do souboru
+Otevírání souborů
+Přehrávání zvuku
+Příkazy a program
+Odkaz na učivo ve zdrojích
+A: Počítač a síť
+B: kap. 2
+C: klikání myší, tahání myší
+C: kreslení čáry a vybarvování
+C: ovladače
+B: kap. 3, 5
+B: kap. 3
+C: psaní na klávesnici
+B: kap. 5, C: doplňování a úprava textu
+B: kap. 3, 5
+B: kap. 3, 5
+C: přehrávání zvuku
+D: Hodina „Co je počítačový program“
+Výukové metody a formy
+Diskuse, práce ve skupinách, samostatná práce, praktické činnosti, objevování,
+experiment, použití videa
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+302
+Práce ve sdíleném prostředí
+Tematický celek RVP
+Digitální technologie
+Očekávané výstupy RVP
+Žákyně/žák:
+● najde a spustí aplikaci, pracuje
+s daty různého typu
+● propojí digitální zařízení, uvede
+možná rizika, která s takovým
+propojením souvisejí
+● dodržuje bezpečnostní a jiná
+pravidla pro práci s digitálními
+technologiemi
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● uvede různé příklady využití
+digitálních technologií v zaměstnání
+rodičů
+● najde a spustí aplikaci, kterou
+potřebuje k práci
+● propojí digitální zařízení a uvede
+bezpečnostní rizika, která
+s takovým propojením souvisejí
+● pamatuje si a chrání své heslo,
+přihlásí se ke svému účtu a odhlásí
+se z něj
+● při práci s grafikou a textem
+přistupuje k datům i na vzdálených
+počítačích a spouští online aplikace
+● rozpozná zvláštní chování počítače
+a případně přivolá pomoc
+dospělého
+Zdroje
+A: učebnice Základy informatiky pro 1. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-1-stupen-zs)
+B: učebnice Informatika 2 (https://www.informatika.fraus.cz/informatika-2)
+C: Datová Lhota (https://decko.ceskatelevize.cz/datova-lhota/ve-skole)
+Učivo
+Využití digitálních technologií v různých
+oborech
+Ergonomie, ochrana digitálního zařízení a
+zdraví uživatele
+Počítačová data, práce se soubory
+Propojení technologií, internet
+Úložiště, sdílení dat, cloud, mazání dat, koš
+Technické problémy a přístupy k jejich
+řešení
+Odkaz na učivo ve zdrojích
+A: Využití digitálních technologií
+B: kap. 11
+C: Hodina „Já a počítačový svět“, B: kap. 6
+B: kap. 8
+C: Hodina „Kam se schovají data“
+Výukové metody a formy
+Diskuse, práce ve skupinách, samostatná práce, praktické činnosti, objevování,
+experiment, použití videa
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+303
+Základy robotiky se stavebnicí
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● sestavuje a testuje symbolické
+zápisy postupů
+● popíše jednoduchý problém,
+navrhne a popíše jednotlivé kroky
+jeho řešení
+● v blokově orientovaném
+programovacím jazyce sestaví
+program; rozpozná opakující se
+vzory, používá opakování a
+připravené podprogramy
+● ověří správnost jím navrženého
+postupu či programu, najde a
+opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● sestaví robota podle návodu
+● sestaví program pro robota
+● oživí robota, otestuje jeho chování
+● najde chybu v programu a opraví ji
+● upraví program pro příbuznou
+úlohu
+● pomocí programu ovládá světelný
+výstup a motor
+● pomocí programu ovládá senzor
+● používá opakování, události ke
+spouštění programu
+Zdroje
+robot Photon
+Učivo
+Sestavení programu a oživení robota
+Ovládání světelného výstupu
+Ovládání motoru
+Opakování příkazů
+Ovládání klávesnicí – události
+Ovládání pomocí senzoru
+Odkaz na učivo ve zdrojích
+Výukové metody a formy
+Práce ve skupině, objevování, experiment, diskuse
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+304
+Úvod do kódování a šifrování dat a informací
+Tematický celek RVP
+Data, informace a modelování
+Očekávané výstupy RVP
+Žákyně/žák:
+● popíše konkrétní situaci, určí, co k ní
+již ví, a znázorní ji
+● vyčte informace z daného modelu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● sdělí informaci obrázkem
+● předá informaci zakódovanou
+pomocí textu či čísel
+● zakóduje/zašifruje
+a dekóduje/dešifruje text
+● zakóduje a dekóduje jednoduchý
+obrázek pomocí mřížky
+● obrázek složí z daných
+geometrických tvarů či navazujících
+úseček
+Zdroje
+A: metodika Základy informatiky pro 1. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-1-stupen-zs)
+B: učebnice Informatika 1 (https://www.informatika.fraus.cz/informatika-1)
+C: učebnice Informatika 2 (https://www.informatika.fraus.cz/informatika-2)
+Učivo
+Piktogramy, emodži
+Kód
+Přenos na dálku, šifra
+Pixel, rastr, rozlišení
+Tvary, skládání obrazce
+Odkaz na učivo ve zdrojích
+A: Kódování informace obrázkem
+A: Kódování informace textem
+A: Kódování informace číslem
+A: Kódovávání a šifrování textu
+A: Kódování rastrového obrázku
+A: Kódování vektorového obrázku
+Výukové metody a formy
+Diskuse, badatelské aktivity, problémová výuka, samostatná práce ve dvojicích či
+skupinách
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+305
+5. ročník
+Úvod do práce s daty
+Tematický celek RVP
+Informační systémy
+Očekávané výstupy RVP
+Žákyně/žák:
+● uvede příklady dat, která ho
+obklopují a která mu mohou pomoci
+lépe se rozhodnout; vyslovuje
+odpovědi na základě dat
+● pro vymezený problém
+zaznamenává do existující tabulky
+nebo seznamu číselná i nečíselná
+data
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● pracuje s texty, obrázky a tabulkami
+v učebních materiálech
+● doplní posloupnost prvků
+● umístí data správně do tabulky
+● doplní prvky v tabulce
+● v posloupnosti opakujících se prvků
+nahradí chybný za správný
+Zdroje
+A: Práce s daty (https://imysleni.cz/ucebnice/prace-s-daty-pro-5-az-7-tridu-zakladniskoly)
+Učivo
+Data, druhy dat
+Doplňování tabulky a datových řad
+Kritéria kontroly dat
+Řazení dat v tabulce
+Vizualizace dat v grafu
+Odkaz na učivo ve zdrojích
+A: Víme, co jsou data
+A: Evidujeme data
+A: Kontrolujeme data
+A: Filtrujeme, třídíme a řadíme data
+A: Porovnáváme a prezentujeme data
+Výukové metody a formy
+Praktické činnosti, experiment, samostatná práce, práce ve dvojici, diskuse
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+306
+Základy programování – příkazy, opakující se vzory
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● sestavuje a testuje symbolické
+zápisy postupů
+● popíše jednoduchý problém,
+navrhne a popíše jednotlivé kroky
+jeho řešení
+● v blokově orientovaném
+programovacím jazyce sestaví
+program; rozpozná opakující se
+vzory, používá opakování
+a připravené podprogramy
+● ověří správnost jím navrženého
+postupu či programu, najde a
+opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● v blokově orientovaném
+programovacím jazyce sestaví
+program pro ovládání postavy
+● v programu najde a opraví chyby
+● rozpozná opakující se vzory,
+používá opakování, stanoví, co se
+bude opakovat a kolikrát
+● vytvoří a použije nový blok
+● upraví program pro obdobný
+problém
+Zdroje
+učebnice Základy programování ve Scratch pro 5. ročník základní školy
+(https://imysleni.cz/ucebnice/zaklady-programovani-ve-scratchi-pro-5-rocnik-zakladni-skoly)
+Učivo
+Příkazy a jejich spojování
+Opakování příkazů
+Pohyb a razítkování
+Ke stejnému cíli vedou různé algoritmy
+Vlastní bloky a jejich vytváření
+Kombinace procedur
+Odkaz na učivo ve zdrojích
+Modul 1 Bádání 1,2
+Modul 1 Bádání 2,3
+Modul 1 Bádání 2,3
+Modul 1 Bádání 3
+Modul 1 Bádání 4
+Modul 1 Bádání 4
+Výukové metody a formy
+Samostatná práce ve dvojici, praktické činnosti, diskuse, objevování, experiment,
+problémová výuka
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+307
+Úvod do informačních systémů
+Tematický celek RVP
+Informační systémy
+Očekávané výstupy RVP
+Žákyně/žák:
+● v systémech, které ho obklopují,
+rozezná jednotlivé prvky a vztahy
+mezi nimi
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● nalezne ve svém okolí systém
+a určí jeho prvky
+● určí, jak spolu prvky souvisí
+Zdroje
+metodika Základy informatiky pro 1. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-1-stupen-zs)
+Učivo
+Systém, struktura, prvky, vztahy
+Odkaz na učivo ve zdrojích
+Systémy kolem nás
+Výukové metody a formy
+Diskuse, badatelské aktivity, samostatná práce, heuristický rozhovor
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+308
+Základy programování – vlastní bloky, náhoda
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● sestavuje a testuje symbolické
+zápisy postupů
+● popíše jednoduchý problém,
+navrhne a popíše jednotlivé kroky
+jeho řešení
+● v blokově orientovaném
+programovacím jazyce sestaví
+program; rozpozná opakující se
+vzory, používá opakování
+a připravené podprogramy
+● ověří správnost jím navrženého
+postupu či programu, najde
+a opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● v blokově orientovaném
+programovacím jazyce sestaví
+program řídící chování postavy
+● v programu najde a opraví chyby
+● rozpozná opakující se vzory,
+používá opakování, stanoví, co se
+bude opakovat a kolikrát
+● rozpozná, jestli se příkaz umístí
+dovnitř opakování, před nebo za něj
+● vytváří, používá a kombinuje vlastní
+bloky
+● přečte zápis programu a vysvětlí
+jeho jednotlivé kroky
+● rozhodne, jestli a jak lze zapsaný
+program nebo postup zjednodušit
+● cíleně využívá náhodu při volbě
+vstupních hodnot příkazů
+Zdroje
+učebnice Základy programování ve Scratch pro 5. ročník základní školy
+(https://imysleni.cz/ucebnice/zaklady-programovani-ve-scratchi-pro-5-rocnik-zakladni-skoly)
+Učivo
+Kreslení čar
+Pevný počet opakování
+Ladění, hledání chyb
+Vlastní bloky a jejich vytváření
+Změna vlastností postavy pomocí příkazu
+Náhodné hodnoty
+Čtení programů
+Programovací projekt
+Odkaz na učivo ve zdrojích
+Modul 2 Bádání 1,2
+Modul 2 Bádání 2
+Modul 2 Bádání 1,2,3
+Modul 2 Bádání 2
+Modul 2 Bádání 3
+Modul 2 Bádání 3
+Modul 2 Bádání 3,4
+Modul 2 Bádání 4
+Výukové metody a formy
+Samostatná práce ve dvojici, praktické činnosti, diskuse, objevování, experiment,
+problémová výuka
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+309
+Úvod do modelování pomocí grafů a schémat
+Tematický celek RVP
+Data, informace a modelování
+Očekávané výstupy RVP
+Žákyně/žák:
+● popíše konkrétní situaci, určí, co
+k ní již ví, a znázorní ji
+● vyčte informace z daného modelu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● pomocí grafu znázorní vztahy mezi
+objekty
+● pomocí obrázku znázorní jev
+● pomocí obrázkových modelů řeší
+zadané problémy
+Zdroje
+A: metodika Základy informatiky pro 1. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-1-stupen-zs)
+Učivo
+Graf, hledání cesty
+Schémata, obrázkové modely
+Model
+3D tisk
+Odkaz na učivo ve zdrojích
+A: Grafové modely
+A: Další grafové modely
+A: Řešení problémů pomocí modelů
+Výukové metody a formy
+Diskuse, badatelské aktivity, problémová výuka, práce ve dvojicích či skupinách
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+310
+Základy programování – postavy a události
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● sestavuje a testuje symbolické
+zápisy postupů
+● popíše jednoduchý problém,
+navrhne a popíše jednotlivé kroky
+jeho řešení
+● v blokově orientovaném
+programovacím jazyce sestaví
+program; rozpozná opakující se
+vzory, používá opakování
+a připravené podprogramy
+● ověří správnost jím navrženého
+postupu či programu, najde a
+opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● v blokově orientovaném
+programovacím jazyce sestaví
+program pro řízení pohybu a reakcí
+postav
+● v programu najde a opraví chyby
+● používá události ke spuštění
+činnosti postav
+● přečte zápis programu a vysvětlí
+jeho jednotlivé kroky
+● upraví program pro obdobný
+problém
+● ovládá více postav pomocí zpráv
+Zdroje
+učebnice Základy programování ve Scratch pro 5. ročník základní školy
+(https://imysleni.cz/ucebnice/zaklady-programovani-ve-scratchi-pro-5-rocnik-zakladni-skoly)
+Učivo
+Ovládání pohybu postav
+Násobné postavy a souběžné reakce
+Modifikace programu
+Animace střídáním obrázků
+Spouštění pomocí událostí
+Vysílání zpráv mezi postavami
+Čtení programů
+Programovací projekt
+Odkaz na učivo ve zdrojích
+Modul 3 Bádání 1
+Modul 3 Bádání 1
+Modul 3 Bádání 1
+Modul 3 Bádání 1,2
+Modul 3 Bádání 2
+Modul 3 Bádání 3
+Modul 3 Bádání 4
+Modul 3 Bádání 4
+Výukové metody a formy
+Samostatná práce ve dvojici, praktické činnosti, diskuse, objevování, experiment,
+problémová výuka
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+311
+2. stupeň
+Průřezová témata
+Do vyučovacího předmětu informatika jsou zařazena následující průřezová témata:
+Osobnostní a sociální výchova – poznávání (praktické přijímání nových poznatků),
+seberegulace (rozvržení práce na PC), kreativita (volba řešení problému, způsob
+zpracování), komunikace (internet, e-mail), kooperace a kompetice (společné zpracování
+projektů), řešení problémů (přijímání znalostí a postupů); Enviromentální výchova - vztah
+člověka a prostředí (zpracování grafických a textových souborů o prostředí, ve kterém
+žijeme); Mediální výchova - kritické myšlení (volba pracovních postupů na PC), interpretace
+(samostatné učení a reprodukce z návodů), stavba (zpracování projektů na internetu),
+vnímání (sledování informací), fungování a vliv (sledování návštěvnosti webu), tvorba
+mediálních sdělení (tvorba textů, tabulek, grafiky a webových stránek), práce v realizačním
+týmu (spolupráce na projektech - grafika a webové stránky). Více v kapitole Přehled
+průřezových témat pro II. stupeň.
+Výchovné a vzdělávací strategie
+Kompetence k učení
+Zařazujeme do výuky problémové vyučování, experimentování s počítačem
+Na začátku vyučovací jednotky vždy společně s žáky vyvodíme cíl, na konci vyučovací
+jednotky společně zhodnotíme jeho dosažení
+Využíváme sebekontrolu a sebehodnocení žáků
+Zadáváme žákům motivační domácí úkoly - umožňujeme jim vybrat si z nabídky
+domácích úkolů
+Požadujeme od žáků prezentaci výsledků domácích úkolů na PC.
+Vyžadujeme od žáků vhodné rozvržení vlastní práce v PC učebně nebo doma
+Umožňujeme žákům ve vhodných případech realizovat vlastní nápady a náměty
+Umožňujeme žákům pozorovat a experimentovat, porovnávat výsledky a vyvozovat
+závěry
+Kompetence k řešení problému
+Umožňujeme žákům vytvářet hypotézy, pozorovat různé jevy nebo zkoumat nastavení
+počítače, hledat pro ně vysvětlení, provádět pokusy, ověřit výsledek řešení a zvážit jeho
+uplatnění v praxi
+Vytváříme pro žáky praktické problémové úlohy a situace, při nichž je nutné řešit
+praktické problémy.
+Nabízíme žákům k řešení úkoly, které vyžadují propojení znalostí z více vyučovacích
+předmětů i využití praktických dovedností z různých oblastí lidské činnosti, a tudíž i více
+přístupů k vyřešení
+Žákům není bráněno při vlastní volbě pořadí vypracování úkolů
+Ve škole i při mimoškolních akcích průběžně monitorujeme, jak žáci řešení problémů
+prakticky zvládají
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+312
+Kompetence komunikativní
+Klademe důraz na týmovou práci a kooperativní vyučování, osobní i elektronickou
+komunikaci
+Každý žák má přidělen vlastní školní e-mail a účet v Google Suite.
+Využíváme metody obsahující prvky prezentace výsledků
+Vyžadujeme od žáků využívání informačních technologií pro získávání informací i tvorbu
+výstupů (webová stránka, prezentace)
+Zařazujeme činnosti umožňující komunikaci s různými věkovými skupinami žáků i s
+dospělou populací (spolupráce a společné akce starších a mladších žáků, akce pro rodiče a
+veřejnost).
+Kompetence sociální a personální
+Vyžadujeme od žáků (zpočátku s pomocí učitelů, později samostatně) rozdělení rolí ve
+skupině, vytvoření pravidel pro práci v týmu, převzetí zodpovědnosti za splnění úkolu
+(dvojice, skupiny, třída, škola)
+Ve výuce jsou využívány hry, na jejichž tvorbě se podílejí sami žáci
+V rámci spolupráce s různými věkovými skupinami organizujeme společné akce starších
+a mladších žáků, akce pro rodiče a veřejnost
+Kompetence občanské
+Vyžadujeme od žáků hodnocení vlastního chování i chování spolužáků, hledání
+společného řešení při nedodržování pravidel třídy či školního řádu - vyžadujeme od žáků
+přijetí zodpovědnosti za plné dodržování pravidel třídy i školního řádu
+Ve výuce je používána metoda hraní rolí pro přiblížení různých životních situací a jejich
+řešení, využíváme prožitkové vyučování
+Zadáváme žákům konkrétní příklady z každodenního běžného života
+Kompetence pracovní
+Zapojujeme žáky do přípravy školních projektů, elektronické zpracování materiálů je
+samozřejmostí
+Vyžadujeme od žáků zhodnocení vlastní práce i práce spolužáků a návrhy na zlepšení
+Získané poznatky žáků jsou využívány při konkrétních činnostech propojených s
+praktickým životem a zdůrazňujících vztah k volbě povolání - hraní rolí, diskuse, skupinová
+práce, pokusy a experimenty, tvorba dokumentů a grafiky
+Žádnou prací žáky netrestáme
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+313
+6. ročník
+Kódování a šifrování dat a informací
+Tematický celek RVP
+Data, informace a modelování
+Očekávané výstupy RVP
+Žákyně/žák:
+● navrhuje a porovnává různé
+způsoby kódování dat s cílem jejich
+uložení a přenosu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● rozpozná zakódované informace
+kolem sebe
+● zakóduje a dekóduje znaky pomocí
+znakové sady
+● zašifruje a dešifruje text pomocí
+několika šifer
+● zakóduje v obrázku barvy více
+způsoby
+● zakóduje obrázek pomocí základní
+geometrických tvarů
+● zjednoduší zápis textu a obrázku,
+pomocí kontrolního součtu ověří
+úplnost zápisu
+● ke kódování využívá i binární čísla
+Zdroje
+metodika Základy informatiky pro 2. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-zakladni-skoly)
+Učivo
+Přenos informací, standardizované kódy
+Znakové sady
+Přenos dat, symetrická šifra
+Identifikace barev, barevný model
+Vektorová grafika
+Zjednodušení zápisu, kontrolní součet
+Binární kód, logické A a NEBO
+Odkaz na učivo ve zdrojích
+Kódy kolem nás
+Kódování znaků
+Šifrování
+Kódování barev
+Obrázky z čar
+Komprese a kontrola
+Binární čísla
+Výukové metody a formy
+Diskuse, dramatizace, heuristický rozhovor, badatelské aktivity, problémové úkoly,
+samostatná práce, práce ve dvojicích/skupinách
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+314
+Práce s daty
+Tematický celek RVP
+Informační systémy
+Očekávané výstupy RVP
+Žákyně/žák:
+● získá z dat informace, interpretuje
+data, odhaluje chyby v cizích
+interpretacích dat
+● sám evidenci vyzkouší a následně
+zhodnotí její funkčnost, případně
+navrhne její úpravu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● najde a opraví chyby u různých
+interpretací týchž dat (tabulka
+versus graf)
+● odpoví na otázky na základě dat
+v tabulce
+● popíše pravidla uspořádání
+v existující tabulce
+● doplní podle pravidel do tabulky
+prvky, záznamy
+● navrhne tabulku pro záznam dat
+● propojí data z více tabulek či grafů
+Zdroje
+A: Práce s daty (https://imysleni.cz/ucebnice/prace-s-daty-pro-5-az-7-tridu-zakladniskoly)
+Učivo
+Data v grafu a tabulce
+Evidence dat, názvy a hodnoty v tabulce
+Kontrola hodnot v tabulce
+Filtrování, řazení a třídění dat
+Porovnání dat v tabulce a grafu
+Řešení problémů s daty
+Odkaz na učivo ve zdrojích
+A: Víme, co jsou data
+A: Evidujeme data
+A: Kontrolujeme data
+A: Filtrujeme, třídíme a řadíme data
+A: Porovnáváme a prezentujeme data
+A: Řešíme problémy s daty
+Výukové metody a formy
+Samostatná práce, diskuse
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+315
+Informační systémy
+Tematický celek RVP
+Informační systémy
+Očekávané výstupy RVP
+Žákyně/žák:
+● vysvětlí účel informačních systémů,
+které používá, identifikuje jejich
+jednotlivé prvky a vztahy mezi nimi;
+zvažuje možná rizika při navrhování
+i užívání informačních systémů
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● popíše pomocí modelu alespoň
+jeden informační systém, s nímž ve
+škole aktivně pracují
+● pojmenuje role uživatelů a vymezí
+jejich činnosti a s tím související
+práva
+Zdroje
+metodika Základy informatiky pro 2. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-zakladni-skoly)
+Učivo
+Školní informační systém, uživatelé,
+činnosti, práva
+Odkaz na učivo ve zdrojích
+Informační systémy
+Výukové metody a formy
+Diskuse, problémové úlohy, badatelské aktivity, samostatná práce, práce ve
+dvojicích/skupinách
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+316
+Programování – opakování a vlastní bloky
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● po přečtení jednotlivých kroků
+algoritmu nebo programu vysvětlí
+celý postup; určí problém, který je
+daným algoritmem řešen
+● vybere z více možností vhodný
+algoritmus pro řešený problém
+a svůj výběr zdůvodní; upraví daný
+algoritmus pro jiné problémy,
+navrhne různé algoritmy pro řešení
+problému
+● v blokově orientovaném
+programovacím jazyce vytvoří
+přehledný program s ohledem na
+jeho možné důsledky a svou
+odpovědnost za ně; program
+vyzkouší a opraví v něm případné
+chyby; používá opakování, větvení
+programu, proměnné
+● ověří správnost postupu, najde
+a opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● v blokově orientovaném
+programovacím jazyce sestaví
+program, dbá na jeho čitelnost
+a přehlednost
+● po přečtení programu vysvětlí, co
+vykoná
+● ověří správnost programu, najde
+a opraví v něm chyby
+● používá cyklus s pevným počtem
+opakování, rozezná, zda má být
+příkaz uvnitř nebo vně opakování,
+● vytváří vlastní bloky a používá je
+v dalších programech
+● diskutuje různé programy pro
+řešení problému
+● vybere z více možností vhodný
+program pro řešený problém a svůj
+výběr zdůvodní
+Zdroje
+učebnice Programování ve Scratch pro 2. stupeň základní školy
+(https://imysleni.cz/ucebnice/programovani-ve-scratchi-pro-2-stupen-zakladni-skoly)
+Učivo
+Vytvoření programu
+Opakování
+Podprogramy
+Odkaz na učivo ve zdrojích
+kap. 1 Sestavení scénáře
+kap. 2 Opakování bloků
+kap. 3 Vlastní bloky
+Výukové metody a formy
+Samostatná práce ve dvojici, diskuse, objevování, experiment, problémová výuka,
+praktické činnosti
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+317
+7. ročník
+Programování – podmínky, postavy a události
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● po přečtení jednotlivých kroků
+algoritmu nebo programu vysvětlí
+celý postup; určí problém, který je
+daným algoritmem řešen
+● vybere z více možností vhodný
+algoritmus pro řešený problém
+a svůj výběr zdůvodní; upraví daný
+algoritmus pro jiné problémy,
+navrhne různé algoritmy pro řešení
+problému
+● v blokově orientovaném
+programovacím jazyce vytvoří
+přehledný program s ohledem na
+jeho možné důsledky a svou
+odpovědnost za ně; program
+vyzkouší a opraví v něm případné
+chyby; používá opakování, větvení
+programu, proměnné
+● ověří správnost postupu, najde
+a opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● v blokově orientovaném
+programovacím jazyce sestaví
+přehledný program k vyřešení
+problému
+● po přečtení programu vysvětlí, co
+vykoná
+● ověří správnost programu, najde
+a opraví v něm chyby
+● používá podmínky pro ukončení
+opakování, rozezná, kdy je
+podmínka splněna
+● spouští program myší, klávesnicí,
+interakcí postav
+● vytváří vlastní bloky a používá je
+v dalších programech
+● diskutuje různé programy pro řešení
+problému
+● vybere z více možností vhodný
+program pro řešený problém a svůj
+výběr zdůvodní
+● hotový program upraví pro řešení
+příbuzného problému
+Zdroje
+učebnice Programování ve Scratch pro 2. stupeň základní školy
+(https://imysleni.cz/ucebnice/programovani-ve-scratchi-pro-2-stupen-zakladni-skoly)
+Učivo
+Opakování s podmínkou
+Události, vstupy
+Objekty a komunikace mezi nimi
+Odkaz na učivo ve zdrojích
+kap. 4 Opakování s podmínkou
+kap. 5 Myš a klávesnice
+kap. 6 Posílání zpráv
+Výukové metody a formy
+Samostatná práce ve dvojici, diskuse, objevování, experiment, problémová výuka,
+praktické činnosti
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+318
+Modelování pomocí grafů a schémat
+Tematický celek RVP
+Data, informace a modelování
+Očekávané výstupy RVP
+Žákyně/žák:
+● vymezí problém a určí, jaké
+informace bude potřebovat k jeho
+řešení; situaci modeluje pomocí
+grafů, případně obdobných
+schémat; porovná svůj navržený
+model s jinými modely k řešení
+stejného problému a vybere
+vhodnější, svou volbu zdůvodní
+● zhodnotí, zda jsou v modelu
+všechna data potřebná k řešení
+problému; vyhledá chybu v modelu
+a opraví ji
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● vysvětlí známé modely jevů, situací,
+činností
+● v mapě a dalších schématech najde
+odpověď na otázku
+● pomocí ohodnocených grafů řeší
+problémy
+● pomocí orientovaných grafů řeší
+problémy
+● vytvoří model, ve kterém znázorní
+více souběžných činností
+Zdroje
+metodika Základy informatiky pro 2. stupeň ZŠ
+(https://imysleni.cz/ucebnice/zaklady-informatiky-pro-zakladni-skoly)
+Učivo
+Standardizovaná schémata a modely
+Ohodnocené grafy, minimální cesta grafu,
+kostra grafu
+Orientované grafy, automaty
+Modely, paralelní činnost
+Odkaz na učivo ve zdrojích
+Běžně užívané modely
+Ohodnocené grafy
+Orientované grafy
+Paralelní činnosti
+Výukové metody a formy
+Diskuse, badatelská výuka, problémové úlohy, samostatná práce, práce ve
+dvojicích/skupinách
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+319
+Programování – větvení, parametry a proměnné
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● po přečtení jednotlivých kroků
+algoritmu nebo programu vysvětlí
+celý postup; určí problém, který je
+daným algoritmem řešen
+● vybere z více možností vhodný
+algoritmus pro řešený problém
+a svůj výběr zdůvodní; upraví daný
+algoritmus pro jiné problémy,
+navrhne různé algoritmy pro řešení
+problému
+● v blokově orientovaném
+programovacím jazyce vytvoří
+přehledný program s ohledem na
+jeho možné důsledky a svou
+odpovědnost za ně; program
+vyzkouší a opraví v něm případné
+chyby; používá opakování, větvení
+programu, proměnné
+● ověří správnost postupu, najde
+a opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● v blokově orientovaném
+programovacím jazyce sestaví
+přehledný program k vyřešení
+problému
+● po přečtení programu vysvětlí, co
+vykoná
+● ověří správnost programu, najde
+a opraví v něm chyby
+● používá podmínky pro větvení
+programu, rozezná, kdy je
+podmínka splněna
+● spouští program myší, klávesnicí,
+interakcí postav
+● používá souřadnice pro
+programování postav
+● používá parametry v blocích, ve
+vlastních blocích
+● vytvoří proměnnou, změní její
+hodnotu, přečte a použije její
+hodnotu
+● diskutuje různé programy pro
+řešení problému
+● hotový program upraví pro řešení
+příbuzného problému
+Zdroje
+učebnice Programování ve Scratch pro 2. stupeň základní školy
+(https://imysleni.cz/ucebnice/programovani-ve-scratchi-pro-2-stupen-zakladni-skoly)
+Učivo
+Větvení programu, rozhodování
+Grafický výstup, souřadnice
+Podprogramy s parametry
+Proměnné
+Odkaz na učivo ve zdrojích
+kap. 7 Rozhodování
+kap. 8 Souřadnice
+kap. 9 Parametry
+kap. 10 Proměnné
+Výukové metody a formy
+Samostatná práce ve dvojici, diskuse, objevování, experiment, problémová výuka,
+praktické činnosti
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+320
+Počítače
+Tematický celek RVP
+Digitální technologie
+Očekávané výstupy RVP
+Žákyně/žák:
+● ukládá a spravuje svá data ve
+vhodném formátu s ohledem na
+jejich další zpracování či přenos
+● vybírá nejvhodnější způsob
+připojení digitálních zařízení do
+počítačové sítě; uvede příklady sítí
+a popíše jejich charakteristické
+znaky
+● poradí si s typickými závadami
+a chybovými stavy počítače
+● dokáže usměrnit svoji činnost tak,
+aby minimalizoval riziko ztráty či
+zneužití dat; popíše fungování
+a diskutuje omezení
+zabezpečovacích řešení
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● nainstaluje a odinstaluje aplikaci,
+aktualizuje
+● uloží textové, grafické, zvukové
+a multimediální soubory
+● vybere vhodný formát pro uložení
+dat
+● vytvoří jednoduchý model domácí
+sítě; popíše, která zařízení jsou
+připojena do školní sítě
+● porovná různé metody zabezpečení
+účtů
+● spravuje sdílení souborů
+● pomocí modelu znázorní cestu
+e-mailové zprávy
+● zkontroluje, zda jsou části počítače
+správně propojeny, nastavení
+systému či aplikace, ukončí
+program bez odezvy
+Zdroje
+Datová Lhota (https://decko.ceskatelevize.cz/datova-lhota/ve-skole)
+Učivo
+● Datové a programové soubory
+a jejich asociace v operačním
+systému
+● Správa souborů, struktura složek
+● Instalace aplikací, aktualizace
+● Domácí a školní počítačová síť
+● Fungování a služby internetu
+● Princip e-mailu
+● Přístup k datům: metody
+zabezpečení přístupu, role
+a přístupová práva (vidět obsah,
+číst obsah, měnit obsah, měnit
+práva), digitální stopa
+● Postup při řešení problému
+s digitálním zařízením (např.
+nepropojení, program bez odezvy,
+špatné nastavení, hlášení /
+dialogová okna)
+Odkaz na učivo ve zdrojích
+Hodina „Co je počítačový program“
+Hodina „Komunikace po internetu“
+Hodina „Soukromí v digitálním světě“
+Výukové metody a formy
+Diskuse, praktické činnosti, ukázky, použití videa
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+321
+8. ročník
+Programování robotické stavebnice
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● rozdělí problém na jednotlivě
+řešitelné části a navrhne a popíše
+kroky k jejich řešení
+● vybere z více možností vhodný
+algoritmus pro řešený problém
+a svůj výběr zdůvodní; upraví daný
+algoritmus pro jiné problémy,
+navrhne různé algoritmy pro řešení
+problému
+● v blokově orientovaném
+programovacím jazyce vytvoří
+přehledný program s ohledem na
+jeho možné důsledky a svou
+odpovědnost za ně; program
+vyzkouší a opraví v něm případné
+chyby; používá opakování, větvení
+programu, proměnné
+● ověří správnost postupu, najde
+a opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● podle návodu nebo vlastní tvořivostí
+sestaví robota
+● upraví konstrukci robota tak, aby
+plnil modifikovaný úkol
+● vytvoří program pro robota
+a otestuje jeho funkčnost
+● přečte program pro robota a najde
+v něm případné chyby
+● ovládá výstupní zařízení a senzory
+robota
+● vyřeší problém tím, že sestaví
+a naprogramuje robota
+Zdroje
+Programovatelná deska Micro:bit
+Učivo
+Sestavení a oživení robota
+Sestavení programu s opakováním,
+s rozhodováním
+Používání výstupních zařízení robota
+(motory, displej, zvuk)
+Používání senzorů (tlačítka, vzdálenost,
+světlo/barva)
+Čtení programu
+Projekt Můj robot
+Odkaz na učivo ve zdrojích
+Kap. 1, 2
+Kap. 3, 5, 9
+Kap. 4, 6,
+Kap. 7, 8
+Úlohy 10.1.1., 10.1.3
+Výukové metody a formy
+Praktické činnosti, samostatná práce, projektová výuka, experiment
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+322
+Programování hardwarové desky
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● ověří správnost postupu, najde
+a opraví v něm případnou chybu
+● v blokově orientovaném
+programovacím jazyce vytvoří
+přehledný program s ohledem na
+jeho možné důsledky a svou
+odpovědnost za ně; program
+vyzkouší a opraví v něm případné
+chyby; používá opakování, větvení
+programu, proměnné
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● sestaví program pro desku Micro:bit
+a otestuje jej
+● přečte program, najde v něm chybu
+a odstraní ji
+● používá opakování, rozhodování,
+proměnné
+● ovládá výstupní zařízení desky
+● používá vstupy ke spouštění a
+řízení běhu programu
+● připojí k desce další zařízení, které
+z desky ovládá
+● vyřeší problém naprogramováním
+desky Micro:bit
+Zdroje
+programovatelná deska Micro:bit
+(nebo její simulátor na https://makecode.microbit.org/)
+učebnice Robotika pro základní školy: programujeme micro:bit pomocí Makecode
+(https://imysleni.cz/ucebnice/18-robotika-pro-zakladni-skoly-programujeme-micro-bitpomoci-makecode)
+Učivo
+Sestavení programu a oživení Micro:bitu
+Ovládání LED displeje
+Tlačítka a senzory náklonu
+Připojení sluchátek, tvorba hudby
+Orientace a pohyb Micro:bitu v prostoru
+Propojení dvou Micro:bitů pomocí kabelu a
+bezdrátově
+Připojení a ovládání externích zařízení
+z Micro:bitu
+Odkaz na učivo ve zdrojích
+Kap. 1
+Kap. 1
+Kap. 2
+Kap. 2, 3, 4
+Kap. 3
+Kap. 4
+Kap. 5
+Kap. 6
+Výukové metody a formy
+Praktické činnosti, samostatná práce, experiment
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+323
+Hromadné zpracování dat
+Tematický celek RVP
+Informační systémy
+Očekávané výstupy RVP
+Žákyně/žák:
+● vymezí problém a určí, jak při jeho
+řešení využije evidenci dat; na
+základě doporučeného i vlastního
+návrhu sestaví tabulku pro evidenci
+dat a nastaví pravidla a postupy pro
+práci se záznamy v evidenci dat
+● nastavuje zobrazení, řazení
+a filtrování dat v tabulce, aby mohl
+odpovědět na položenou otázku;
+využívá funkce pro automatizaci
+zpracování dat
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● při tvorbě vzorců rozlišuje absolutní
+a relativní adresu buňky
+● používá k výpočtům funkce
+pracující s číselnými a textovými
+vstupy (průměr, maximum, pořadí,
+zleva, délka, počet, když)
+● řeší problémy výpočtem s daty
+● připíše do tabulky dat nový záznam
+● seřadí tabulku dat podle daného
+kritéria (velikost, abecedně)
+● používá filtr na výběr dat z tabulky,
+sestaví kritérium pro vyřešení úlohy
+● ověří hypotézu pomocí výpočtu,
+porovnáním nebo vizualizací
+velkého množství dat
+Zdroje
+tabulkový procesor, nejlépe s volnou licencí
+učebnice pro práci se vzorci v tabulkách a grafy
+učebnice tabulkového procesoru pro práci s daty
+Učivo
+Relativní a absolutní adresy buněk
+Použití vzorců u různých typů dat
+Funkce s číselnými vstupy
+Funkce s textovými vstupy
+Vkládání záznamu do databázové tabulky
+Řazení dat v tabulce
+Filtrování dat v tabulce
+Zpracování výstupů z velkých souborů dat
+Odkaz na učivo ve zdrojích
+(tradiční téma výuky)
+Výukové metody a formy
+Samostatná práce, problémová výuka, projekt
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+324
+9. ročník
+Programovací projekty
+Tematický celek RVP
+Algoritmizace a programování
+Očekávané výstupy RVP
+Žákyně/žák:
+● rozdělí problém na jednotlivě
+řešitelné části a navrhne a popíše
+kroky k jejich řešení
+● vybere z více možností vhodný
+algoritmus pro řešený problém
+a svůj výběr zdůvodní; upraví daný
+algoritmus pro jiné problémy,
+navrhne různé algoritmy pro řešení
+problému
+● v blokově orientovaném
+programovacím jazyce vytvoří
+přehledný program s ohledem na
+jeho možné důsledky a svou
+odpovědnost za ně; program
+vyzkouší a opraví v něm případné
+chyby; používá opakování, větvení
+programu, proměnné
+● ověří správnost postupu, najde
+a opraví v něm případnou chybu
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● řeší problémy sestavením algoritmu
+● v blokově orientovaném
+programovacím jazyce sestaví
+přehledný program k vyřešení
+problému
+● po přečtení programu vysvětlí, co
+vykoná
+● ověří správnost programu, najde
+a opraví v něm chyby
+● diskutuje různé programy pro
+řešení problému
+● vybere z více možností vhodný
+program pro řešený problém a svůj
+výběr zdůvodní
+● řeší problém jeho rozdělením na
+části pomocí vlastních bloků
+● hotový program upraví pro řešení
+příbuzného problému
+● zvažuje přístupnost vytvořeného
+programu různým skupinám
+uživatelů a dopady na ně
+Zdroje
+učebnice Programování ve Scratch II – projekty pro 2. stupeň základní školy
+(https://imysleni.cz/ucebnice/programovani-ve-scratchi-ii-projekty-pro-2-stupen-zakladni-skoly)
+Učivo
+Programovací projekt a plán jeho realizace
+Popsání problému
+Testování, odladění, odstranění chyb
+Pohyb v souřadnicích
+Ovládání myší, posílání zpráv
+Vytváření proměnné, seznamu, hodnoty
+prvků seznamu
+Nástroje zvuku, úpravy seznamu
+Import a editace kostýmů, podmínky
+Návrh postupu, klonování.
+Animace kostýmů postav, události
+Analýza a návrh hry, střídání pozadí,
+proměnné
+Výrazy s proměnnou
+Tvorba hry s ovládáním, více seznamů
+Tvorba hry, příkazy hudby, proměnné
+a seznamy
+Odkaz na učivo ve zdrojích
+projekt Souřadnice
+projekt Kulička
+projekt Nákupní seznam
+projekt Klavír
+projekt Světadíly
+projekt Ohňostroj
+projekt Interaktivní pohlednice
+projekt Ostrov pokladů
+projekt Hodiny
+projekt Bludiště
+projekt Variace na hru Piano tiles
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+325
+Výukové metody a formy
+Samostatná práce, praktické činnosti, diskuse, projektová výuka
+Digitální technologie
+Tematický celek RVP
+Digitální technologie
+Očekávané výstupy RVP
+Žákyně/žák:
+● popíše, jak funguje počítač po
+stránce hardwaru i operačního
+systému; diskutuje o fungování
+digitálních technologií určujících
+trendy ve světě
+● ukládá a spravuje svá data ve
+vhodném formátu s ohledem na
+jejich další zpracování či přenos
+● vybírá nejvhodnější způsob
+připojení digitálních zařízení do
+počítačové sítě; uvede příklady sítí
+a popíše jejich charakteristické
+znaky
+● poradí si s typickými závadami
+a chybovými stavy počítače
+● dokáže usměrnit svoji činnost tak,
+aby minimalizoval riziko ztráty či
+zneužití dat; popíše fungování
+a diskutuje omezení
+zabezpečovacích řešení
+Očekávané výstupy ŠVP
+Žákyně/žák:
+● pojmenuje části počítače a popíše,
+jak spolu souvisí
+● vysvětlí rozdíl mezi programovým
+a technickým vybavením
+● diskutuje o funkcích operačního
+systému a popíše stejné a odlišné
+prvky některých z nich
+● na příkladu ukáže, jaký význam má
+komprese dat
+● popíše, jak fungují vybrané
+technologie z okolí, které považuje
+za inovativní
+● na schematickém modelu popíše
+princip zasílání dat po počítačové
+síti
+● vysvětlí vrstevníkovi, jak fungují
+některé služby internetu
+● diskutuje o cílech a metodách
+hackerů
+● vytvoří myšlenkovou mapu prvků
+zabezpečení počítače a dat
+● diskutuje, čím vším vytváří svou
+digitální stopu
+Zdroje
+učebnice Digitální technologie podle RVP INF 2020 (https://opocitacich.cz)
+Učivo
+Hardware a software
+● Složení současného počítače a
+principy fungování jeho součástí
+● Operační systémy: funkce, typy,
+typické využití
+● Komprese a formáty souborů
+● Fungování nových technologií
+kolem mě (např. smart technologie,
+virtuální realita, internet věcí, umělá
+inteligence)
+Sítě
+● Typy, služby a význam
+počítačových sítí
+Odkaz na učivo ve zdrojích
+(tradiční téma – hardware a software)
+(tradiční téma – počítačové sítě)
+ŠKOLNÍ VZDĚLÁVACÍ PROGRAM – Učíme se zdravě žít, komunikovat a znát
+326
+● Fungování sítě: klient, server,
+switch, paketový přenos dat, IP
+adresa
+● Struktura a principy Internetu,
+datacentra, cloud
+● Web: fungování webu, webová
+stránka, webový server, prohlížeč,
+odkaz/URL
+● Princip cloudové aplikace (např.
+e-mail, e-shop, streamování)
+Bezpečnost
+● Bezpečnostní rizika: útoky (cíle
+a metody útočníků), nebezpečné
+aplikace a systémy
+● Zabezpečení počítače a dat:
+aktualizace, antivir, firewall,
+zálohování a archivace dat
+Digitální identita
+● Digitální stopa: sledování polohy
+zařízení, záznamy o přihlašování a
+pohybu po internetu, sledování
+komunikace, informace o uživateli
+v souboru (metadata); sdílení a
+trvalost (nesmazatelnost) dat
+● Fungování a algoritmy sociálních
+sítí, vyhledávání a cookies
+(tradiční téma – bezpečnost)
+(téma – digitální identita)
+Výukové metody a formy
+Diskuse, praktické činnosti, ukázky, myšlenkové mapy, výklad
+Závěrečné projekty
+Výukové metody a formy
+Projektová výuka, samostatná/skupinová práce
+Popis
+Vyučující může alokované hodiny využít na dokončování programovacích projektů, ale
+může také zvolit projekt pro interdisciplinární a mimoškolní aplikaci informatiky, např.
+vytváření digitálních modelů jevů, webové stránky, aplikace v chytré domácnosti a další.
+Alternativou může být také příprava na soutěž v robotice, programování. Projekt má
+sloužit k prokázání tvůrčího přístupu žáků k řešení problémů.
