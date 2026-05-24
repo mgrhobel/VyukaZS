@@ -1,5 +1,9 @@
 {
-  "workbench.editorAssociations": {
-    "*.md": "vscode.markdown.preview.editor"
-  }
+  "terminal.integrated.env.windows": {
+    "GIT_HUMAN_APPROVED": "1"
+  },
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.mouseWheelScrollSensitivity": 1,
+  "terminal.integrated.fastScrollSensitivity": 5,
+  "terminal.integrated.smoothScrolling": true
 }
