@@ -1,0 +1,15 @@
+{
+  "name": "vyukazs",
+  "description": "Skills pro tvorbu výukových materiálů ZŠ – přípravy na hodiny, testy, sekvence (Matematika + Informatika)",
+  "version": "1.0.0",
+  "author": { "name": "mgrhobel" },
+  "repository": "https://github.com/mgrhobel/VyukaZS",
+  "license": "MIT",
+  "keywords": ["matematika", "informatika", "zs", "rvp", "vyuka"],
+  "skills": [
+    "./skills/hodina-matematika",
+    "./skills/hodina-informatika",
+    "./skills/test-matematika",
+    "./skills/sekvence-hodin"
+  ]
+}
